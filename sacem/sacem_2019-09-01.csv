@@ -1,0 +1,565 @@
+"CODE DECLARANT";"CODE DIFFUSEUR";GRID;"CODE EAN 13";"CODE UPC";"IDENTIFIANT PRODUIT DECLARANT";"TYPE SERVICE";"TYPE PRODUIT";"TITRE PRODUIT";"TITRE OEUVRE";"NOM COMPOSITEUR";"NOM AUTEUR";"NOM EDITEUR";"NOM INTERPRETE";LABEL;"DUREE OEUVRE";"DATE DEBUT PERIODE";"DATE FIN PERIODE";"TERRITOIRE VENTE";QUANTITE;"NOM DE L'OFFRE COMMERCIALE";"TYPE MODELE COMMERCIAL";"TYPE CANAL DISTRIBUTION";"TYPE UTILISATION";"PRIX UNITAIRE HT";DEVISE
+
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Libres tangos";"Histoire de si";"Alain Chapelain";;;;;4:54;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Libres tangos";Libertango;"Alain Chapelain";;;;;4:33;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Libres tangos";"Loco loco";"Alain Chapelain";;;;;4:01;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"L'écume des nuits";"Petite fourmi des îles";"Ali Danel";;;;;3:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"L'écume des nuits";"L'écume des nuits";"Ali Danel";;;;;4:03;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"En liberté";"À cheval sur le monde rêvé sauvage";"Ali Danel";;;;;3:28;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Allain Leprest";"Reverras-tu le Sénégal";"Allain Leprest";;;;;3:12;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Aminima (Demo)";"Track 1";Aminima;;;;;3:11;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Drôle d'idée";"J'y pense encore";Aminima;;;;;3:07;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Aminima;"Petit peuple";Aminima;;;;;3:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Aminima (Demo)";"Track 2";Aminima;;;;;3:17;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Drôle d'idée";Elodie;Aminima;;;;;3:47;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Aminima;"La révolution";Aminima;;;;;5:46;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Aminima (Demo)";"Track 4";Aminima;;;;;3:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Drôle d'idée";Elle;Aminima;;;;;2:29;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Aminima;"Miss Gandja";Aminima;;;;;6:16;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Drôle d'idée";"Les sales manières";Aminima;;;;;3:29;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Drôle d'idée";"Comme autrefois";Aminima;;;;;3:00;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instants fragiles";"Mon nez dans ton cou";"Annie W";;;;;3:05;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instants fragiles";"La sphère";"Annie W";;;;;3:23;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instants fragiles";"Je préfere la mer";"Annie W";;;;;5:20;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instants fragiles";"Hold on";"Annie W";;;;;3:50;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instants fragiles";"Tellement de clés";"Annie W";;;;;3:59;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instants fragiles";"December with you";"Annie W";;;;;3:12;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instants fragiles";Déjà;"Annie W";;;;;3:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instants fragiles";"Round trip ticket";"Annie W";;;;;2:53;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Pour mieux comprendre mes copains et moi";"Mon doudou";Annika;;;;;2:33;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;W.E.O.M;"Margin call";Apollo;;;;;3:32;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Off the rails";"Something new";"Asphalt Tuaregs";;;;;2:23;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Swunk alone in a trouble zone";Survivors;"Asphalt Tuaregs";;;;;4:36;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Off the rails";"Off the rails";"Asphalt Tuaregs";;;;;2:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Off the rails";"The worst is to come";"Asphalt Tuaregs";;;;;4:11;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"No way";"Overwhelm you";Backsliders;;;;;3:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Diversion;Espère;Bandini;;;;;4:48;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Aux lendemains";"Se battre des ailes";"Ben Herbert Larue";;;;;5:02;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Aux lendemains";Victor;"Ben Herbert Larue";;;;;2:56;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Aux lendemains";"Aux lendemains";"Ben Herbert Larue";;;;;5:32;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Cent Nuits";Heroes;"Black Maria";;;;;3:25;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Cent Nuits";"Cent nuits";"Black Maria";;;;;3:29;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Les traces";"Finir à genoux";"Black Maria";;;;;4:00;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Cent Nuits";Opium;"Black Maria";;;;;3:19;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Les traces";"Vamos aureliano";"Black Maria";;;;;2:42;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Les traces";"Les sentiers de l'envers";"Black Maria";;;;;3:30;01/08/2019;30/08/2019;FR;36;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hirsute Zouzou";Underground;"Bohême Express";;;;;2:09;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Je suis artiste";"Ma dernière chanson";Boule;;;;;5:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"From the shelter";"Land of brothers";"Breaky Boxes";;;;;3:31;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Analyses;"Wake up";Bug;;;;;4:37;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Analyses;Lesions;Bug;;;;;4:21;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Analyses;Elliah;Bug;;;;;4:36;01/08/2019;30/08/2019;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Analyses;E.K.L.A;Bug;;;;;5:54;01/08/2019;30/08/2019;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Analyses;"La faille";Bug;;;;;5:01;01/08/2019;30/08/2019;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Premières Lignes";KesKya;"Captain Sparks & Royal Company (RCCS)";;;;;3:09;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Premières Lignes";"Petite Fleur";"Captain Sparks & Royal Company (RCCS)";;;;;3:34;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Live;"Round midnight";"City Kids";;;;;2:55;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"City Lights";"The siren's song";"City Lights";;;;;3:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ouside Logic presente Ligne de Conduite";"Intro (Brass)";Compilation;;;;;0:57;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"1ère Transmusicale";"The calling (45th Avenue)";Compilation;;;;;3:47;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"1ère Transmusicale";"Nadia (Alan Woody)";Compilation;;;;;2:19;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hommage rapopfunkheavysong";"Si tu t'imagines (Epsylo)";Compilation;;;;;6:03;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"1ère Transmusicale";"Je veux retourner chez ma mère (Les Français)";Compilation;;;;;2:41;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A guided tour of LH";"Alone but free (Mass Confusion)";Compilation;;;;;4:19;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"1ère Transmusicale";"Le couteau (Les Krevettes)";Compilation;;;;;2:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A guided tour of LH";"Whop his back (Horrorshow Destruction)";Compilation;;;;;1:23;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"1ère Transmusicale";"L'apprenti sorcier (Bass Reflex)";Compilation;;;;;5:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"1ère Transmusicale";"De profundis (Maze of Death)";Compilation;;;;;4:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"1ère Transmusicale";"La fille du Las Vegas (Violette Noziere)";Compilation;;;;;2:57;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ouside Logic presente Ligne de Conduite";"Stop (La Syntaxe, Battle Mode Click et Al1)";Compilation;;;;;4:43;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"1ère Transmusicale";"The soldier is back (Crash)";Compilation;;;;;5:21;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"1ère Transmusicale";"Le Prosy (Procession)";Compilation;;;;;4:42;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Mes tunes production - Trafic international Vol.1";"Jack-S & Fouf - Le Son de Ma Tess";Compilation;;;;;2:56;01/08/2019;30/08/2019;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Made in Normandy";"Dommage (Miss Mosquito)";"Compilation C2R";;;;;3:25;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"les terrasses du jeudi 2011 (CD2)";"Bad Night' (The Divine's Orchestra)";"Compilation Les terrasses du jeudi";;;;;3:24;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Pas de temps à perdre";L'artiste;Cortège;;;;;2:46;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"Bowling party";"Crumble Lane";;;;;3:56;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"49 seconds";"Crumble Lane";;;;;0:49;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"Stalk is cheap";"Crumble Lane";;;;;2:21;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"Thex way of samuraï";"Crumble Lane";;;;;1:36;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"Our spring breaks seem to be the most deadly";"Crumble Lane";;;;;2:38;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"Kellogs country";"Crumble Lane";;;;;2:55;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"Cloudcroft punkrock hi-school";"Crumble Lane";;;;;4:35;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"Jazz in Vienna";"Crumble Lane";;;;;3:41;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"Punky Xmas";"Crumble Lane";;;;;3:34;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Six years a wink";"Can't find your way";"Crumble Lane";;;;;4:09;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";Nitro;"Crumble Lane";;;;;1:15;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Six years a wink";"Go on the race";"Crumble Lane";;;;;2:39;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"Poor melinda";"Crumble Lane";;;;;2:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Of miles and Men";"And I don't think you can tell";"Crumble Lane";;;;;3:40;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Charlotte;"Nuit Blanche";"Damiano Capone";;;;;2:48;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Emotions jazz";"Basson Bossa";"Denis Burell Trio";;;;;4:19;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Emotions jazz";"Douze huîtres par mesure";"Denis Burell Trio";;;;;5:00;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Aube;L'orage;Denize;;;;;3:12;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Welcome;Dizzy;"Dizzy Yug";;;;;2:49;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"More More More";"Waiting for a miracle";Dogs;;;;;4:07;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Shout !";Pah-Pah-Ooh-Pah-Ooh;Dogs;;;;;1:49;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"More More More";"More more more";Dogs;;;;;3:48;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"More More More";"I love music";Dogs;;;;;2:51;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"When I Was Young";Dogs;;;;;3:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"A Different Me";Dogs;;;;;3:11;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Three is a crowd";"The End of the Gang";Dogs;;;;;3:57;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Legendary lovers";"I got somebody";Dogs;;;;;3:13;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Short, fast et tight (CD1)";"Little Girl";Dogs;;;;;2:12;01/08/2019;30/08/2019;FR;14;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Misánthrôpos;Maudit;Doliath;;;;;3:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"On cherche encore";megalomelomane;"Donnie Darko";;;;;4:27;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Emotional collapse and empty bottles";"Drunk and lost in LH";Draft;;;;;3:29;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Harmonic distortion";Intro;Draft;;;;;1:16;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";"Failure of dialectics";Draft;;;;;3:17;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";"Anus mundi";Draft;;;;;3:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";"Drunk and lost in L.H.";Draft;;;;;3:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";Interlude;Draft;;;;;0:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";"Slow-motion suicide";Draft;;;;;3:26;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";"Balistics of lonelines";Draft;;;;;4:16;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";"Xanax and alcohol helped me to get there";Draft;;;;;3:29;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";"Social entropy";Draft;;;;;4:16;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";"Love is a black orchid";Draft;;;;;3:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Slow Motion Suicide";Spleen;Draft;;;;;3:33;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Pot Pourri Vol.1";"Seul [Classicx Beats]";Dyru;;;;;3:20;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The black cat's step";"Tear Down My Home";Echoes;;;;;5:34;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Paradise;Paradise;"Elegant Tramp";;;;;4:08;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";Largue-moi;"Emilie Yojenka";;;;;2:44;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";"Fantaisie sur Lola";"Emilie Yojenka";;;;;2:10;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";Hélium;"Emilie Yojenka";;;;;1:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";Elodie;"Emilie Yojenka";;;;;4:39;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";"La citrouille";"Emilie Yojenka";;;;;2:46;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";Errance;"Emilie Yojenka";;;;;2:46;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";Pascaline;"Emilie Yojenka";;;;;2:38;01/08/2019;30/08/2019;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";"Ce que tu sèmes";"Emilie Yojenka";;;;;2:01;01/08/2019;30/08/2019;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";L'habanera;"Emilie Yojenka";;;;;3:22;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";"Le mur";"Emilie Yojenka";;;;;2:47;01/08/2019;30/08/2019;FR;11;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";Bulle;"Emilie Yojenka";;;;;3:46;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";"La chanson des imitations";"Emilie Yojenka";;;;;2:09;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";"Tu vois, c'est ça";"Emilie Yojenka";;;;;2:37;01/08/2019;30/08/2019;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Du haut du mur";"On fait c'qu'on peut";"Emilie Yojenka";;;;;2:52;01/08/2019;30/08/2019;FR;11;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Intra-vnr;Intro;Emostaz;;;;;0:48;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Intra-vnr;"Reflet (ft. David)";Emostaz;;;;;5:15;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"One Second to Midnight";"We pray for salvation";"Empty Space";;;;;4:01;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Cachette secrète";"Pas d'bon poil";Enfantillage;;;;;2:17;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Bleu Calin";"La bulle";Enfantillage;;;;;3:45;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Bleu Calin";"Papier peint";Enfantillage;;;;;3:14;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Bleu Calin";"Matin trop bleu";Enfantillage;;;;;1:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Bleu Calin";Bonheur;Enfantillage;;;;;2:26;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Bleu Calin";Polisson;Enfantillage;;;;;2:06;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Bleu Calin";"Dans mon lit";Enfantillage;;;;;1:35;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;"Tadadhi's dream";"Eric Prud'Homme Trio";;;;;6:59;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;"Spring dream";"Eric Prud'Homme Trio";;;;;7:43;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;"Dreams so real";"Eric Prud'Homme Trio";;;;;4:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;"Dream of you";"Eric Prud'Homme Trio";;;;;7:34;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;Dreamer;"Eric Prud'Homme Trio";;;;;6:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;"Reve a St Germain des anges";"Eric Prud'Homme Trio";;;;;5:36;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;Drumsdrims;"Eric Prud'Homme Trio";;;;;2:54;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;Dreams;"Eric Prud'Homme Trio";;;;;8:12;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;"You stepped out of a dream";"Eric Prud'Homme Trio";;;;;5:09;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Reves;"Chacun son reve";"Eric Prud'Homme Trio";;;;;4:23;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Soleil Noir (Faciès)";"Robe de Bure";Faciès;;;;;3:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Soleil Noir (Faciès)";Lao;Faciès;;;;;4:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Soleil Noir (Faciès)";"Celui qui vient";Faciès;;;;;3:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"One man's paradise (is another man's hell)";"One man's paradise (is another man's hell)";"Fair Play";;;;;3:46;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"One man's paradise (is another man's hell)";"Don't waste your time";"Fair Play";;;;;4:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"One man's paradise (is another man's hell)";"Little red haired loving queen";"Fair Play";;;;;4:08;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"One man's paradise (is another man's hell)";"Ode to Billy Joe";"Fair Play";;;;;4:46;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"One man's paradise (is another man's hell)";"Look what you've done";"Fair Play";;;;;4:43;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"One man's paradise (is another man's hell)";"Bus stop blues";"Fair Play";;;;;3:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"One man's paradise (is another man's hell)";"Mad about that girl";"Fair Play";;;;;3:34;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"One man's paradise (is another man's hell)";"Hard to handle";"Fair Play";;;;;3:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Jazz aux pères";Mela;"Félix Perron Quartet";;;;;5:33;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Jazz aux pères";"L'homme sans mer(e)";"Félix Perron Quartet";;;;;4:14;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Jazz aux pères";"Retour de Fontainebleau";"Félix Perron Quartet";;;;;5:55;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Double fond";"La boîte à double fond";Frandol;;;;;4:21;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Double fond";"État second";Frandol;;;;;3:33;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Double fond";"Sept ans";Frandol;;;;;3:16;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Double fond";Contorsions;Frandol;;;;;4:20;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Double fond";Lévitation;Frandol;;;;;3:55;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Chic et  Pourrave";"2000 ans d'amour";"Gul de Boa";;;;;5:46;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"Le pavé numérique";"Gul de Boa";;;;;2:09;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Chic et  Pourrave";"Les americains";"Gul de Boa";;;;;4:54;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Luxe, Calme & Volupté";"Trois jours";"Gul de Boa";;;;;3:38;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Luxe, Calme & Volupté";"Immobile et horizontal";"Gul de Boa";;;;;4:06;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Luxe, Calme & Volupté";Zen;"Gul de Boa";;;;;5:46;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Prenez place dans mon bain";"La fiancee du bourreau";"Gul de Boa";;;;;5:41;01/08/2019;30/08/2019;FR;15;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le chant des peaux si bleues";Immature;"Gul de Boa";;;;;2:52;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Avant fermeture définitive";Coriolis;Hauchecorne;;;;;2:05;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Highscream;"Track 01";Highscream;;;;;5:18;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Derriere les annees";J'essayais;"Holy Land";;;;;0:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Derriere les annees";"Derriere les annees";"Holy Land";;;;;0:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Derriere les annees";"Je n'veux pas savoir";"Holy Land";;;;;0:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Derriere les annees";"Le meme soleil";"Holy Land";;;;;0:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Derriere les annees";"Test Amants";"Holy Land";;;;;0:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Derriere les annees";"Saluer les anges";"Holy Land";;;;;0:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Derriere les annees";"Apprentis Sorciers";"Holy Land";;;;;0:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Litha Jazz Quartet ""Bolivia""";"Hot Normandie";;;;;3:21;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie (disque 2)";"Joël Drouin Quintet ""Basse partout""";"Hot Normandie";;;;;3:18;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Trionyx ""Prison Jazz Dance""";"Hot Normandie";;;;;3:41;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Rouen Big Band ""Groove Merchant""";"Hot Normandie";;;;;5:45;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie (disque 2)";"Evreux Experyenz ""Run for cover""";"Hot Normandie";;;;;3:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Panam' Trio ""Vaucottes Blues""";"Hot Normandie";;;;;4:47;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Impulse Quartet ""Eleuthra""";"Hot Normandie";;;;;3:33;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie (disque 2)";"Waves ""Voce e eu""";"Hot Normandie";;;;;3:20;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Gilles Fabre Quintet ""Un Souffle De Toi""";"Hot Normandie";;;;;4:00;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Jean-Pierre Nicole Quartet ""Peri's Scope""";"Hot Normandie";;;;;3:25;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie (disque 2)";"Assoué ""Julia""";"Hot Normandie";;;;;3:36;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Eric Prud'homme Trio ""What Is This Thing Called Love""";"Hot Normandie";;;;;5:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Olivier Fodor Quartet ""Triple Play""";"Hot Normandie";;;;;2:53;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Quintet Joel Drouin ""Couscous No1""";"Hot Normandie";;;;;5:01;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Endless Voices ""The shadow of your smile""";"Hot Normandie";;;;;4:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Euphonium 14 ""Juste Un Bruit Doux""";"Hot Normandie";;;;;4:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Chicken feet ""Sweet Georgia Brown""";"Hot Normandie";;;;;3:15;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Delta ""A Tout Va""";"Hot Normandie";;;;;5:25;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Philippe Ecrepont Quintet ""Whisper not""";"Hot Normandie";;;;;3:25;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Franz Fenris G. ""Body And Soul""";"Hot Normandie";;;;;3:30;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Pascal Le Lyon Trio ""Les yeux rouges""";"Hot Normandie";;;;;2:48;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Maracuja ""Serge Calypso""";"Hot Normandie";;;;;4:16;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Dixie Fellows ""At the jazzband ball""";"Hot Normandie";;;;;3:14;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Claude Lafontaine Quartet ""Chachacola Blues""";"Hot Normandie";;;;;5:18;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"La quintette du Hot Club de Rouen ""Jumpin' whith symphony sid""";"Hot Normandie";;;;;3:06;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Silence IV ""Afrika's Roll""";"Hot Normandie";;;;;4:23;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie";"Dixe de Der ""Cushion foot Stomp"" ""Eh, là-bas""";"Hot Normandie";;;;;3:18;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Syl ""Brazilian Love Affair""";"Hot Normandie";;;;;4:48;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Trio Espaces Libre ""Espaces""";"Hot Normandie";;;;;3:49;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Natal 4 ""Dum Kopf";"Hot Normandie";;;;;4:14;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Hot Normandie 2 (disque2)";"Evreux Experyenz ""The Hornet""";"Hot Normandie";;;;;4:15;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Play Legends";"Honey don't";"Hot Slap";;;;;2:55;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Play Legends";"I can tell";"Hot Slap";;;;;2:57;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Saudade cuando da";"Chemin vers l'ocean";Iguaçu;;;;;3:13;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Disco Boom / Bar Maritime Bar";"Disco Boum";"Ils étaient 4";;;;;2:56;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Disco Boom / Bar Maritime Bar";"Bar Maritime Bar";"Ils étaient 4";;;;;2:27;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le crooner du rire";Mémé;"Jean-Jacques de Launay";;;;;2:42;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le crooner du rire";"Bigouden blues";"Jean-Jacques de Launay";;;;;3:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le crooner du rire";"Le cimetière";"Jean-Jacques de Launay";;;;;2:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le crooner du rire";"Tu pues, tu pues";"Jean-Jacques de Launay";;;;;2:53;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le crooner du rire";Patrick;"Jean-Jacques de Launay";;;;;3:13;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le crooner du rire";Hawaï;"Jean-Jacques de Launay";;;;;2:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le crooner du rire";Pénélope;"Jean-Jacques de Launay";;;;;3:33;01/08/2019;30/08/2019;FR;26;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le crooner du rire";"Raquette blues";"Jean-Jacques de Launay";;;;;3:42;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A tous coeur";"Fly me to the moon";"Jean-Jacques de Launay";;;;;2:39;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le crooner du rire";"Ma pauvre Lili, tu pètes au lit";"Jean-Jacques de Launay";;;;;3:51;01/08/2019;30/08/2019;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A tous coeur";"Rien ne vaut l amour";"Jean-Jacques de Launay";;;;;3:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A tous coeur";Goodbye;"Jean-Jacques de Launay";;;;;2:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A tous coeur";"La mer";"Jean-Jacques de Launay";;;;;3:35;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"C'était à peine hier...";"C'était à peine hier";"Jean-Marie Vivier";;;;;3:24;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Des nouvelles de ce soir";"Jean-Marie Vivier";;;;;2:56;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"C'était à peine hier...";"Les mots";"Jean-Marie Vivier";;;;;2:37;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";Samarcande;"Jean-Marie Vivier";;;;;2:14;01/08/2019;30/08/2019;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"C'était à peine hier...";Instantanés;"Jean-Marie Vivier";;;;;3:09;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";"À marée basse";"Jean-Marie Vivier";;;;;3:21;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Moi je y'a qu'à";"Jean-Marie Vivier";;;;;2:59;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"C'était à peine hier...";"Un jardin";"Jean-Marie Vivier";;;;;2:50;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";"La vie entre deux chaises";"Jean-Marie Vivier";;;;;2:24;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";Vieillir;"Jean-Marie Vivier";;;;;3:29;01/08/2019;30/08/2019;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"C'était à peine hier...";"Larmes de confettis";"Jean-Marie Vivier";;;;;3:06;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Si je savais parler aux femmes";"Jean-Marie Vivier";;;;;3:01;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";Tzigane;"Jean-Marie Vivier";;;;;1:55;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Mon île";"Jean-Marie Vivier";;;;;3:15;01/08/2019;30/08/2019;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";"C'est fou comme à 15 ans";"Jean-Marie Vivier";;;;;3:12;01/08/2019;30/08/2019;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Dromi Lismonimeni";"Jean-Marie Vivier";;;;;2:58;01/08/2019;30/08/2019;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";"Vivre un peu plus loin";"Jean-Marie Vivier";;;;;3:36;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Il disait l'étranger";"Jean-Marie Vivier";;;;;3:52;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"La nuit au Louvre";"Jean-Marie Vivier";;;;;2:59;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"C'était à peine hier...";Bozo;"Jean-Marie Vivier";;;;;3:27;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";Présence;"Jean-Marie Vivier";;;;;3:07;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Grand mât";"Jean-Marie Vivier";;;;;2:41;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"C'était à peine hier...";Dites;"Jean-Marie Vivier";;;;;2:13;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"C'était à peine hier...";"Le poète";"Jean-Marie Vivier";;;;;3:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"C'était à peine hier...";"En acrobate";"Jean-Marie Vivier";;;;;2:46;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";"Au chemin des promesses";"Jean-Marie Vivier";;;;;3:07;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Faut faire quequ'chose";"Jean-Marie Vivier";;;;;2:46;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";"La vie et les algues";"Jean-Marie Vivier";;;;;3:08;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";Merci;"Jean-Marie Vivier";;;;;2:33;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";Blessure;"Jean-Marie Vivier";;;;;3:14;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La sortie du clown";"Lettre à Dédé";"Jean-Marie Vivier";;;;;3:28;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Chanson pour Alekos";"Jean-Marie Vivier";;;;;3:14;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";Jeunesse;"Jean-Marie Vivier";;;;;3:03;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Les mauvais conseils";"Jean-Marie Vivier";;;;;2:59;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Seul avec vous";"Les riens";"Jean-Marie Vivier";;;;;3:04;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Page de garde";"Verre à vue";"Joël Drouin";;;;;4:55;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Jazz de garenne";"Jazz de garenne";"Joël Drouin";;;;;19:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Page de garde";Krocus;"Joël Drouin";;;;;5:14;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Jazz de garenne";"Espoir de jardin ?";"Joël Drouin";;;;;10:04;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Page de garde";"Vite mais pas lent";"Joël Drouin";;;;;6:00;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Jazz de garenne";"Samba de sous bois";"Joël Drouin";;;;;6:56;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Page de garde";"Valise Valse";"Joël Drouin";;;;;6:42;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Jazz de garenne";"Bambous de savoie";"Joël Drouin";;;;;4:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Page de garde";"Terrasse Boulevard";"Joël Drouin";;;;;11:24;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Page de garde";"Monk rit";"Joël Drouin";;;;;11:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Africa Walla";"Moussongo Bouani";"Kevin M\'Finka";;;;;5:16;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Congo Bolingo";"Toko be";"Kevin M\'Finka";;;;;4:56;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Congo Bolingo";"Kou dilandi";"Kevin M\'Finka";;;;;3:15;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Well, Well, Well";"Son house";"King Biscuit";;;;;2:30;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Well, Well, Well";"Down and below (fast version)";"King Biscuit";;;;;2:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Qui Sait";"Pourquoi Tu Vis";Kinkeliba;;;;;5:22;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Desillusion;"L'âme en peine";"Lady Mac Beth";;;;;5:52;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Losing Sleep";"Two of us";Lascaux;;;;;3:36;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Losing Sleep";Daydream;Lascaux;;;;;3:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Losing Sleep";"Calling With Your Eyes";Lascaux;;;;;4:01;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Rêve Express";"Tonton Tati";"Latche Swing";;;;;2:16;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Une petite histoire de l'opéra";"Air des sauvages";"Laurent Dehors";;;;;3:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Faits d\'hiver";"La triste histoire du pauvre marin solitaire";"Le P'tit Bazar";;;;;3:46;01/08/2019;30/08/2019;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Faits d\'hiver";"Chez mamie";"Le P'tit Bazar";;;;;4:09;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Heures d'ouverture";"Thème lunaire";"Les frères Nardàn";;;;;4:56;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Rendez-vous In Angel City";"Isn't It Enough";"Little Bob";;;;;4:07;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Lost Territories";"Lost Territories";"Little Bob";;;;;6:38;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"Break down the walls";"Little Bob";;;;;2:46;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Rendez-vous In Angel City";"Midnight Crisis";"Little Bob";;;;;4:32;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"Run you off the hill";"Little Bob";;;;;4:09;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Rendez-vous In Angel City";"There'll never be another You";"Little Bob";;;;;4:29;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"Evil (is goin'on)";"Little Bob";;;;;3:43;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";Circumstances;"Little Bob";;;;;3:38;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"The rain song";"Little Bob";;;;;4:56;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"I wanna be free";"Little Bob";;;;;3:37;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"Feel like a bastard";"Little Bob";;;;;3:17;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"Nobody but you";"Little Bob";;;;;2:27;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"Mean game";"Little Bob";;;;;3:38;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"Who's been talking";"Little Bob";;;;;3:50;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"I feel so good";"Little Bob";;;;;2:45;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Break down the walls";"The brokenhearted boy";"Little Bob";;;;;4:30;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"High time";"High time";"Little Bob Story";;;;;5:00;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"High time";"Delices of my youth";"Little Bob Story";;;;;3:54;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Demo Lumen";Lumen;Lumen;;;;;3:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Lycanthrope;"Joe samba le cheminot";Lycanthrope;;;;;6:32;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Lycanthrope 2002";Vico;Lycanthrope;;;;;8:49;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Lycanthrope;"Ubuhuhua  Le Lycaon";Lycanthrope;;;;;4:13;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Lycanthrope;"Le tunnel (Intro)";Lycanthrope;;;;;3:03;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Lycanthrope;"Le tunnel";Lycanthrope;;;;;9:11;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Les tziganes turcs d\'Istanbul";"Let's go to Moscow";"Marc Minelli";;;;;4:18;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Préludes à l'aurore";"Les rêves d'Elise";"Martial Murray";;;;;5:00;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Cithare en confidence n°2";Citharologie;"Martial Murray";;;;;5:13;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Cithare en confidence n°2";"Suite en Fa M";"Martial Murray";;;;;4:28;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Préludes à l'aurore";"Lettre d'Irlande";"Martial Murray";;;;;3:32;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Cithare en confidence n°2";"Sérénade en sol";"Martial Murray";;;;;4:53;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Acapulco;"Alone but free";"Mass Confusion";;;;;3:26;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Acapulco;"Conflict's end";"Mass Confusion";;;;;2:55;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"mauvais geste";"Ma Reptilienne";"Mauvais Geste";;;;;4:28;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"mauvais geste";DDASS;"Mauvais Geste";;;;;3:17;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;5;Manivelle;"Mes souliers sont rouges";;;;;4:11;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Gaillardises;Sainte-Cécile;"Mes souliers sont rouges";;;;;4:17;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"En dehors des clous";"La fille du boulanger";"Mes souliers sont rouges";;;;;3:11;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Gaillardises;"Grand-père Noé";"Mes souliers sont rouges";;;;;4:15;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Tape la galoche";"Les souliers rouges";"Mes souliers sont rouges";;;;;5:05;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"En dehors des clous";"J'aime le vin";"Mes souliers sont rouges";;;;;2:28;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Motor / Reactor";"Sleep with yourself";"Mexican Six Shooter";;;;;2:05;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Motor / Reactor";"Bad connexion";"Mexican Six Shooter";;;;;1:58;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Motor / Reactor";Cartridge;"Mexican Six Shooter";;;;;2:58;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Motor / Reactor";"Hate me (please)";"Mexican Six Shooter";;;;;1:35;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Motor / Reactor";"Delta Delta";"Mexican Six Shooter";;;;;3:09;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Above the sun";"Above the sun";Mezzanine;;;;;3:10;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Out of the cities";"All I know";"Minh May";;;;;4:03;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Shortin' Bread Rock";"Shortin' bread rock";"Miss Victoria Crown";;;;;2:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Worthless;Yeasterday;MNNQNS;;;;;3:28;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Capital;"Come to your senses";MNNQNS;;;;;4:45;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Worthless;"Hang Up Calls";MNNQNS;;;;;2:50;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Worthless;Dawns;MNNQNS;;;;;3:12;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Worthless;"Just The Way I Feel";MNNQNS;;;;;2:02;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Worthless;"Empty Spaces";MNNQNS;;;;;3:39;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Worthless;"Until The Moon Comes Down";MNNQNS;;;;;3:40;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Worthless;Clocks;MNNQNS;;;;;4:32;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Worthless;"Shaking Hands With The Devil";MNNQNS;;;;;2:48;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sacrée quête";"Yeah Yeah (Pour plantes grasses)";"Mob's et Travaux";;;;;1:50;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sacrée quête";"Les champignons (Pour plantes cryptogames)";"Mob's et Travaux";;;;;3:36;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sacrée quête";"Tous les chemins menent a... (Pour plantes rutacees)";"Mob's et Travaux";;;;;4:34;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sacrée quête";"Amour transi (Pour plantes epineuses)";"Mob's et Travaux";;;;;1:10;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Distillé;"Bienvenue chez nous";Moonshiners;;;;;4:58;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Distillé;Là-haut;Moonshiners;;;;;4:40;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Distillé;Distillé;Moonshiners;;;;;3:58;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Distillé;L'indifférence;Moonshiners;;;;;2:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Distillé;"La crème aux oeufs";Moonshiners;;;;;2:47;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Distillé;Relam;Moonshiners;;;;;4:52;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Distillé;"Les 2 pieds dans la merde";Moonshiners;;;;;5:20;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Distillé;"La vie en couleur";Moonshiners;;;;;3:49;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Last Chance, Nice Time";"Blue Noise";"Mr Jack";;;;;3:27;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"And now it's time to go";"Finally (Is It For Today)";"Mr Lab!";;;;;4:39;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"And now it's time to go";"Never Said";"Mr Lab!";;;;;6:47;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"And now it's time to go";"You're Leaving Me Again";"Mr Lab!";;;;;4:57;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"And now it's time to go";"And Now It's Time To Go...";"Mr Lab!";;;;;5:12;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"And now it's time to go";"I Could Be Old";"Mr Lab!";;;;;4:38;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";Introduction;"Muriel et Olivier Vonderscher";;;;;0:38;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Carte postale";"Muriel et Olivier Vonderscher";;;;;4:23;01/08/2019;30/08/2019;FR;24;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Bienvenue au cirque";"Muriel et Olivier Vonderscher";;;;;3:36;01/08/2019;30/08/2019;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Un mouton, deux moutons...";"Muriel et Olivier Vonderscher";;;;;4:21;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Où est caché Anatole?";"Muriel et Olivier Vonderscher";;;;;2:24;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Le funambule somnambule";"Muriel et Olivier Vonderscher";;;;;3:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"La classe de Madame Jolicoeur";"Muriel et Olivier Vonderscher";;;;;2:44;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"La récré";"Muriel et Olivier Vonderscher";;;;;3:23;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Numéro de clowns";"Muriel et Olivier Vonderscher";;;;;3:25;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Fugue de la cantine";"Muriel et Olivier Vonderscher";;;;;4:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"La complainte du magicien";"Muriel et Olivier Vonderscher";;;;;2:34;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Le numéro de conjugaison";"Muriel et Olivier Vonderscher";;;;;2:34;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Mais vas-tu trouver Anatole?";"Muriel et Olivier Vonderscher";;;;;1:14;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Rêver le jour, rêver la nuit";"Muriel et Olivier Vonderscher";;;;;3:20;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Zoé fait son cirque";"Carte postale (instrumental)";"Muriel et Olivier Vonderscher";;;;;3:22;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"My Silly Dogfish EP";"A man on the moon";"My Silly Dogfish";;;;;2:39;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"My Silly Dogfish EP";"Catch my eyes";"My Silly Dogfish";;;;;2:20;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"My Silly Dogfish EP";"A complete unknown";"My Silly Dogfish";;;;;4:57;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"My Silly Dogfish EP";"Give me some";"My Silly Dogfish";;;;;3:07;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Rien a prouver";"Ness & Cité";;;;;2:43;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Ghetto Moudjahidin";"Ness & Cité";;;;;3:24;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Rimes et batiments";"Ness & Cité";;;;;4:33;01/08/2019;30/08/2019;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Haine story (Feat. Fabe)";"Ness & Cité";;;;;3:59;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Cause commune";"Ness & Cité";;;;;1:51;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";Bismillah;"Ness & Cité";;;;;3:44;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Mafieux sans mafia (Feat. Ibrah & NH)";"Ness & Cité";;;;;5:07;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Baston de regards (Feat. PAD)";"Ness & Cité";;;;;3:55;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Si tristes sont nos vies";"Ness & Cité";;;;;4:50;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";Dique-sa;"Ness & Cité";;;;;4:10;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";Vice-sert;"Ness & Cité";;;;;3:59;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Voue a se devouer";"Ness & Cité";;;;;2:38;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Donnant donnant (Feat. Enarce & Koto)";"Ness & Cité";;;;;4:11;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";Melodrame;"Ness & Cité";;;;;4:53;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"A venir";"Ness & Cité";;;;;5:17;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"All is quiet";Jack;"No More Jordy";;;;;4:16;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"All is quiet";"Never mind";"No More Jordy";;;;;2:45;01/08/2019;30/08/2019;FR;25;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"All is quiet";"La pommeraie";"No More Jordy";;;;;2:57;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Nothing 1997";Z'obsession;Nothing;;;;;4:03;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Nothing 1997";Zippo;Nothing;;;;;4:10;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Orange Yeti EP";"Ton silence";"Orange Yeti";;;;;4:48;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Orange Yeti EP";"My friend";"Orange Yeti";;;;;3:52;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Orange Yeti EP";"Tourne la page";"Orange Yeti";;;;;3:59;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Orange Yeti EP";"Elle s'efface";"Orange Yeti";;;;;5:25;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Steve McQueen";"Glossy Stockings";"Othello Fred Group";;;;;2:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Steve McQueen";"October begins";"Othello Fred Group";;;;;4:21;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Déclinaison(s);Dimi;"Oua-Anou Diarra";;;;;4:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Déclinaison(s);"En vain";"Oua-Anou Diarra";;;;;4:36;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Scories;"Hollow faces";"Pan D";;;;;4:33;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Le Malévole";L'armada;"Patrick Baladin";;;;;4:50;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"L'amour n'est à personne";"Je ne suis";"Patrick Baladin";;;;;4:00;01/08/2019;30/08/2019;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"L'amour n'est à personne";"Le moulin du coq";"Patrick Baladin";;;;;3:36;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"Le vent et les chansons";"Philippe Tailleux";;;;;6:34;01/08/2019;30/08/2019;FR;32;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";L'éboueur;"Philippe Tailleux";;;;;2:45;01/08/2019;30/08/2019;FR;28;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"C'est l'hiver";"Philippe Tailleux";;;;;2:54;01/08/2019;30/08/2019;FR;32;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"Blanc et noir";"Philippe Tailleux";;;;;3:44;01/08/2019;30/08/2019;FR;28;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"La sorcière du HLM";"Philippe Tailleux";;;;;3:34;01/08/2019;30/08/2019;FR;38;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"Nounours blues";"Philippe Tailleux";;;;;3:06;01/08/2019;30/08/2019;FR;28;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";Vieux-Manège;"Philippe Tailleux";;;;;3:53;01/08/2019;30/08/2019;FR;28;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"Vol de nuit";"Philippe Tailleux";;;;;3:49;01/08/2019;30/08/2019;FR;28;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"Le vent et les chansons (instrumental)";"Philippe Tailleux";;;;;4:30;01/08/2019;30/08/2019;FR;34;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"L'éboueur (instrumental)";"Philippe Tailleux";;;;;2:03;01/08/2019;30/08/2019;FR;39;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"C'est l'hiver (instrumental)";"Philippe Tailleux";;;;;2:40;01/08/2019;30/08/2019;FR;40;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"Blanc et noir (instrumental)";"Philippe Tailleux";;;;;2:42;01/08/2019;30/08/2019;FR;34;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"La sorcière du HLM (instrumental)";"Philippe Tailleux";;;;;3:09;01/08/2019;30/08/2019;FR;49;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"Nounours blues (instrumental)";"Philippe Tailleux";;;;;2:45;01/08/2019;30/08/2019;FR;44;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"Vieux-manège (instrumental)";"Philippe Tailleux";;;;;3:03;01/08/2019;30/08/2019;FR;40;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"La journée d'Emile et Mélodie";"Vol de nuit (instrumental)";"Philippe Tailleux";;;;;3:52;01/08/2019;30/08/2019;FR;31;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The clown wars";"Oh Be Joyful (If You're Good Enough For U.S. Grant You're Good Enough For Me)";"Pink Flamingos";;;;;2:11;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Split with Jeffrey lost control";Housecats;"Pink Flamingos";;;;;2:48;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The clown wars";"Daddy Issues";"Pink Flamingos";;;;;2:32;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Split with Jeffrey lost control";"Yellow Smoke";"Pink Flamingos";;;;;3:33;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The clown wars";"Behead The King";"Pink Flamingos";;;;;1:36;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The clown wars";"White Russians At Night";"Pink Flamingos";;;;;2:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The clown wars";"You're Not Fucking Bon Jovi So Why Don't You Shut The Fuck Up ?";"Pink Flamingos";;;;;2:53;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Roll'N'Rock;"Silver & Gold";Plaisirs;;;;;3:12;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroids Rock 2008";"A la casse (Salines)";"Polaroids Rock";;;;;4:01;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroids Rock 2004";"La vie de quartier (Les super)";"Polaroids Rock";;;;;2:44;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroids Rock 2005";"Les petits seins de Sylvie (Crumble Lane)";"Polaroids Rock";;;;;3:27;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroïds Rock #16";"Révolution [Foray]";"Polaroids Rock";;;;;4:03;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroïds Rock #14";"Des clous [Sounds Against Vultures]";"Polaroids Rock";;;;;5:59;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroids Rock 2008";"Maman melancolie (10'Kei)";"Polaroids Rock";;;;;5:12;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroïds Rock #14";"Des choses qui arrivent [Simon et Margot]";"Polaroids Rock";;;;;3:11;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroïds Rock #7";"Les images du passé [Va l'dire à ta mère]";"Polaroids Rock";;;;;3:10;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroids Rock 2004";"Sens interdits (Aminima)";"Polaroids Rock";;;;;3:34;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Polaroïds Rock #10";"Pomme fripée [No more Valium]";"Polaroids Rock";;;;;2:44;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Recherche télé étanche";"Tapis IKEA";"Pop the Fish";;;;;3:27;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Depart;Megalogronnn;"Pron Flavurdik";;;;;9:45;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Legacy;Legacy;"Pron Flavurdik";;;;;39:46;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Depart;"Twin chips good";"Pron Flavurdik";;;;;6:34;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Depart;Scoobydoooo;"Pron Flavurdik";;;;;5:43;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Depart;Rabbiiii;"Pron Flavurdik";;;;;5:19;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";"L.A. Party";Roadrunners;;;;;4:55;01/08/2019;30/08/2019;FR;15;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instant Trouble";"I'm watchin'you";Roadrunners;;;;;3:46;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";"Couteau Naif";Roadrunners;;;;;2:33;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instant Trouble";"Saturation point";Roadrunners;;;;;2:10;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";"French Kiss";Roadrunners;;;;;4:26;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instant Trouble";Contortions;Roadrunners;;;;;4:00;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Beep Show";"Sleep tight";Roadrunners;;;;;3:19;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";"Haunted Forever";Roadrunners;;;;;3:34;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instant Trouble";"Rags under our eyes";Roadrunners;;;;;3:11;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";"Macadam River";Roadrunners;;;;;3:52;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instant Trouble";"Hey bulldog";Roadrunners;;;;;2:36;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";Chatterton;Roadrunners;;;;;3:18;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instant Trouble";"Eye of the Cyclone";Roadrunners;;;;;2:09;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";"Danseurs de l'ombre";Roadrunners;;;;;3:09;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Instant Trouble";"Beat around the bush";Roadrunners;;;;;2:33;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Bizarre Rendez vous";"Try Me";Roadrunners;;;;;4:20;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";"Summertime Frog";Roadrunners;;;;;2:51;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Bizarre Rendez vous";"Brand New Game";Roadrunners;;;;;4:10;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";Firefly;Roadrunners;;;;;3:09;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";Surfin'Carmen;Roadrunners;;;;;3:00;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";Satellites;Roadrunners;;;;;3:28;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";"Muley Graves";Roadrunners;;;;;3:33;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Sales Figures";"Doctor Doxey";Roadrunners;;;;;3:55;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Run Like Mad";"Garden of delights";"Ruby Shoes";;;;;4:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"OK !";"OK !";"Samba de la Muerte";;;;;4:45;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Scamps;"Moon wrecker";Scamps;;;;;2:34;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Go with the flow";"Waste your time";Scamps;;;;;4:01;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Go with the flow";"You should beat your line";Scamps;;;;;3:11;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Scamps;"That's rock";Scamps;;;;;3:00;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Winter;December;"Shadow Dream";;;;;12:44;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Live à l'arcade";"Not in time";"Shape Your Skill";;;;;4:34;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Cougarland;"Happy Wedding";"Shape Your Skill";;;;;3:05;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Close Your Eyes to See";Breathe;"Skies May Ignite";;;;;1:24;01/08/2019;30/08/2019;FR;18;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Close Your Eyes to See";Sanity;"Skies May Ignite";;;;;4:23;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Close Your Eyes to See";"No Escape";"Skies May Ignite";;;;;3:57;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";"Ma banquière";Souinq;;;;;3:27;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";"Bric à brac";Souinq;;;;;3:51;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";"Jeunesse dorée";Souinq;;;;;4:17;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";"Frôler l'amer";Souinq;;;;;3:15;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";Soumerde;Souinq;;;;;2:25;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";"Pas tenté";Souinq;;;;;1:12;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";Assis-debout;Souinq;;;;;3:37;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Pour décompresser";"Je m'y perds";Souinq;;;;;2:10;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";"Le fils du charpentier";Souinq;;;;;0:24;01/08/2019;30/08/2019;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";"Là, chez moi, lâchez-vous";Souinq;;;;;4:08;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";"Je change";Souinq;;;;;5:08;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"A decouvert";L'enterrement;Souinq;;;;;4:09;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Oui kom fort konkor";"L'argent du peuple africain";"Square Roots";;;;;5:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Oui kom fort konkor";"Ganja's warriors";"Square Roots";;;;;6:19;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Oui kom fort konkor";Secheresse;"Square Roots";;;;;6:42;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The Middle of the Shore";"The shore";"Sylvain Barbaray";;;;;2:26;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Interesting Results";Woo;"Syntax error";;;;;3:54;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Interesting Results";Classic;"Syntax error";;;;;3:12;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Interesting Results";"Special price in your ass";"Syntax error";;;;;3:57;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";"Crystal Clear";"The Elektrocution";;;;;2:07;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Open Heart Surgery";"Kneel down and pray";"The Elektrocution";;;;;2:00;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";"Sweet Caroline";"The Elektrocution";;;;;2:30;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Open Heart Surgery";"Don't you run away";"The Elektrocution";;;;;2:47;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";"Somewhere Else";"The Elektrocution";;;;;3:14;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Open Heart Surgery";"The Threat";"The Elektrocution";;;;;2:21;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";"Everything I Touch I Break";"The Elektrocution";;;;;2:29;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Open Heart Surgery";"Fuck you 3";"The Elektrocution";;;;;1:09;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Rise to the sun";Panic;"The Elektrocution";;;;;2:44;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";"Babylon By Bus";"The Elektrocution";;;;;4:52;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Rise to the sun";"I don't need no doctor";"The Elektrocution";;;;;3:38;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";Goddamn;"The Elektrocution";;;;;2:25;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";"Out Of Breath";"The Elektrocution";;;;;2:19;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";"Biting The Dust";"The Elektrocution";;;;;2:41;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";"Rise To The Sun";"The Elektrocution";;;;;2:56;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Trouble Magnet";"La Cour Des Miracles";"The Elektrocution";;;;;3:29;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The Footnotes";"Love is always new";"The Footnotes";;;;;3:20;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The Footnotes";"Not the same";"The Footnotes";;;;;3:04;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The Footnotes";"I shot my woman";"The Footnotes";;;;;3:33;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The Footnotes";Sharks;"The Footnotes";;;;;3:25;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Lupanar Chic";"Une nuit à la Tourmaï";"Thomas Breinert";;;;;3:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Lupanar Chic";"L'infirmière de Frankenstein (en duo avec Vincent Delerm)";"Thomas Breinert";;;;;2:41;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Lupanar Chic";Anna;"Thomas Breinert";;;;;3:46;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Tokyo/Overtones;"A bungalow on pluto";Tokyo/Overtones;;;;;4:24;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Tokyo/Overtones;"The Ferry Song";Tokyo/Overtones;;;;;2:58;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"The polar e.p.";"Polar e.t";Tokyo/Overtones;;;;;3:05;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Tokyo/Overtones;"On helium";Tokyo/Overtones;;;;;3:31;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Tokyo/Overtones;"Tomorrow space...";Tokyo/Overtones;;;;;5:24;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Tokyo/Overtones;"Your steps";Tokyo/Overtones;;;;;4:02;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;Tokyo/Overtones;"Behind words";Tokyo/Overtones;;;;;4:19;01/08/2019;30/08/2019;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Dans la rue";"A la campagne";"Tous dehors";;;;;4:48;01/08/2019;30/08/2019;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Homo homini lupus";"Homo Homini Lupus";"Tribal zone";;;;;4:08;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ecce Homo";Chirine;"Tribal zone";;;;;4:45;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Homo homini lupus";"Rock around sofia";"Tribal zone";;;;;4:00;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Ecce Homo";"Nu Naksaluk";"Tribal zone";;;;;2:44;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Homo homini lupus";U.F.O;"Tribal zone";;;;;4:05;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Homo homini lupus";"Funk me Dad";"Tribal zone";;;;;3:21;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Homo homini lupus";"Tribal Zone Art";"Tribal zone";;;;;3:33;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Dirty satured blues";330;"Tupelo Soul";;;;;4:57;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Party On Deimos";Dopamine;"Vain Valkyries";;;;;4:51;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Party On Deimos";"The Jump";"Vain Valkyries";;;;;3:06;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Party On Deimos";100F1;"Vain Valkyries";;;;;4:21;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Party On Deimos";"Suffocate To Death";"Vain Valkyries";;;;;3:11;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Party On Deimos";Casablanca;"Vain Valkyries";;;;;2:39;01/08/2019;30/08/2019;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Avec un grand A";Goldorak;Wolzovitch;;;;;3:43;01/08/2019;30/08/2019;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;TOL;;;;;MUSI;SINGLE;"Vous êtes jeune";"Bien loin de la ville";"Yannick Le Nagard";;;;;2:36;01/08/2019;30/08/2019;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO

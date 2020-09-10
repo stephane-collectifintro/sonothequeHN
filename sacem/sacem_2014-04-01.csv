@@ -1,0 +1,844 @@
+"CODE DECLARANT";"CODE DIFFUSEUR";GRID;"CODE EAN 13";"CODE UPC";"IDENTIFIANT PRODUIT DECLARANT";"TYPE SERVICE";"TYPE PRODUIT";"TITRE PRODUIT";"TITRE OEUVRE";"NOM COMPOSITEUR";"NOM AUTEUR";"NOM EDITEUR";"NOM INTERPRETE";LABEL;"DUREE OEUVRE";"DATE DEBUT PERIODE";"DATE FIN PERIODE";"TERRITOIRE VENTE";QUANTITE;"NOM DE L'OFFRE COMMERCIALE";"TYPE MODELE COMMERCIAL";"TYPE CANAL DISTRIBUTION";"TYPE UTILISATION";"PRIX UNITAIRE HT";DEVISE
+
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Pourvu qu\'on ait l\'ivresse";"Maison blanche";"1 Costard pour 2";;;;;4:08;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Pourvu qu\'on ait l\'ivresse";"Petit pas";"1 Costard pour 2";;;;;3:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Propre sur soi";"Mon Havre";"1 Costard pour 2";;;;;4:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Pourvu qu\'on ait l\'ivresse";Marmot;"1 Costard pour 2";;;;;3:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Pourvu qu\'on ait l\'ivresse";"Stand by Rita";"1 Costard pour 2";;;;;4:03;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Pourvu qu\'on ait l\'ivresse";"Pourvu qu'on ait l'ivresse";"1 Costard pour 2";;;;;3:58;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"10 Oxyde";Inoxydable;"10 Oxyde";;;;;1:51;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"10 Oxyde";Angéline;"10 Oxyde";;;;;4:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Cent Vingt Deux";"Do that shit";"122 Cobayes";;;;;3:15;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"17 seconds left";"Question d'argent";"17 seconds left";;;;;4:03;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"17 seconds left";"La main de Dieu";"17 seconds left";;;;;3:58;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"20 centimes dans l\'eau";L'As;"20 centimes dans l'eau";;;;;4:13;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Mais qui a jeté 20 centimes dans l\'eau?";"500 euros";"20 centimes dans l'eau";;;;;3:46;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Mais qui a jeté 20 centimes dans l\'eau?";"Banque route";"20 centimes dans l'eau";;;;;4:27;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Beating;"Beating (30 MPE Remix)";2D;;;;;3:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Humeur;"La poche";32;;;;;6:04;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Humeur;"La commode";32;;;;;3:20;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Humeur;Margot;32;;;;;4:51;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"39th and Norton";"In need";"39th and Norton";;;;;3:58;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Introducing a guy in light";Life;"A guy in light";;;;;4:59;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Glad to be...";"Glad to be sad";Acktarus;;;;;5:17;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Un d'trop feat. Acoosmik (prod. by Tonton Georges)";Acoosmik;;;;;3:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Barre de Vie (prod. by Tonton Georges)";Acoosmik;;;;;3:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Morfal Combat (prod. by Tonton Georges)";Acoosmik;;;;;3:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Héros (prod. by Tonton Georges)";Acoosmik;;;;;4:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Sous la Ceinture (prod. by Tonton Georges)";Acoosmik;;;;;5:09;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Quand on arrive en Ville (prod. by Tonton Georges)";Acoosmik;;;;;4:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Quand on arrive en Ville feat. Daniel Kesta l'Avoine (prod. by Djar One)";Acoosmik;;;;;3:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Sous la Ceinture (prod. by Djar One)";Acoosmik;;;;;2:44;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Super?-?Villains (prod. by Djar One)";Acoosmik;;;;;3:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Morfal Kombat (prod. by Djar One)";Acoosmik;;;;;3:36;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Barre de Vie (prod. by Djar One)";Acoosmik;;;;;3:42;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les Rimailleurs vs Acoosmik";"Game Over (prod. by Djar One)";Acoosmik;;;;;3:04;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Mille fois";"Le tour";Acoustic;;;;;3:36;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Mille fois";Toujours;Acoustic;;;;;4:37;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Mille fois";"Les lianes";Acoustic;;;;;2:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Urban Live";2funk;Addicted;;;;;3:52;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Macadam(s);"Je suis";"Adrien Marbek";;;;;2:42;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Macadam(s);"D'accord d'accord";"Adrien Marbek";;;;;4:07;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Al Belya";"Al Belya";"Al Kalmat";;;;;3:20;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Libres tangos";"Histoire de si";"Alain Chapelain";;;;;4:54;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Libres tangos";Libertango;"Alain Chapelain";;;;;4:33;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Album à colorier";"Monsieur Lepousse";"Albert Marcoeur";;;;;1:20;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Album à colorier";"Le necessaire a chaussure";"Albert Marcoeur";;;;;1:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Et si...";"Et si";Alexandre;;;;;5:41;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Et si...";"la femme de ma vie (slow)";Alexandre;;;;;5:47;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Alice the Goon";Alone;"Alice the Goon";;;;;2:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"A pack of lies";"A pack of lies";Alkalys;;;;;10:26;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"A pack of lies";"Inferno black clouds";Alkalys;;;;;4:54;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"A pack of lies";999;Alkalys;;;;;7:47;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"A pack of lies";Incandescence;Alkalys;;;;;8:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"A pack of lies";"Red cross on the highway";Alkalys;;;;;12:12;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Aminima;Elle;Aminima;;;;;3:12;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"10 ans d\'écart";"Y'a pas d'thème";"Amsag et Mandringue";;;;;4:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Aña;"L'air de rien";Aña;;;;;3:27;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ces roses flotteront sur l'océan";Reflections;Aña;;;;;3:30;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Aña;"A l'opposé";Aña;;;;;4:23;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ces roses flotteront sur l'océan";"La dernière lumière rouge";Aña;;;;;3:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Angelface;"Funny road";"Angel FACE";;;;;5:42;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Angelface;Dollars;"Angel FACE";;;;;6:02;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;AngelFace;Marmelade;"Angel FACE";;;;;7:01;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Angelface;"A or not";"Angel FACE";;;;;6:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Anton;"My world";Anton;;;;;3:47;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Anton;"Dark days";Anton;;;;;3:26;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Harsh means of answer against compromise";Opening;"As we bleed";;;;;2:07;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Hail The Sick Ones";"Hail the sick ones";"As we bleed";;;;;3:39;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Unholy smoke";"Never again";Ashes;;;;;2:39;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Unholy smoke";"Body symphony";Ashes;;;;;1:03;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Unholy smoke";"Holy crush";Ashes;;;;;1:50;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Horizons;"Mon coeur d'oiseau";"Aude Rose";;;;;2:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Horizons;"Over the town";"Aude Rose";;;;;2:23;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Horizons;Crépuscule;"Aude Rose";;;;;2:04;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Horizons;"L'amour naissant";"Aude Rose";;;;;2:44;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Horizons;"Le dalhia noir";"Aude Rose";;;;;3:43;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Horizons;Calypso;"Aude Rose";;;;;2:53;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Suzanne;"Autour d'elle";"Autour d'Elle";;;;;2:47;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Suzanne;Suzanne;"Autour d'Elle";;;;;4:07;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Connexions;"L'appel de la couette ( inédit )";"Bad joke";;;;;10:37;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Connexions;"Crossing the borders ( Volt Selector remix )";"Bad joke";;;;;13:37;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Connexions;"Remember Feat Lokass ( FX Projekt )";"Bad joke";;;;;12:57;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bamboo for Chopsticks";"Your island";"Bamboo for Chopsticks";;;;;3:27;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bamboo for Chopsticks";"Maybe I'd stay";"Bamboo for Chopsticks";;;;;2:46;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bamboo for Chopsticks";"Life will kill you";"Bamboo for Chopsticks";;;;;4:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Opus IV";"Il Galeone";"Battan L'Otto";;;;;2:23;01/03/2014;30/03/2014;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"D-mo 2";"So Stato a Lavora";"Battan L'Otto";;;;;4:00;01/03/2014;30/03/2014;FR;14;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Opus IV";"Addio Morettin";"Battan L'Otto";;;;;3:21;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"D-mo 2";"Bandiera Rossa";"Battan L'Otto";;;;;4:11;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Opus IV";"Bella Ciao";"Battan L'Otto";;;;;2:49;01/03/2014;30/03/2014;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"D-mo 2";Gorizia;"Battan L'Otto";;;;;3:26;01/03/2014;30/03/2014;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Opus IV";"Cortellate 442";"Battan L'Otto";;;;;3:38;01/03/2014;30/03/2014;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Opus IV";Montesicuro;"Battan L'Otto";;;;;3:49;01/03/2014;30/03/2014;FR;171;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";Eddy;"Black Maria";;;;;2:35;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";"Saya la mère";"Black Maria";;;;;4:02;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";Johnny;"Black Maria";;;;;5:26;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";"La foret";"Black Maria";;;;;3:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";Circle;"Black Maria";;;;;3:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";Sarah;"Black Maria";;;;;4:39;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";"Voodoo taxi";"Black Maria";;;;;4:44;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";"Les enfants loups";"Black Maria";;;;;3:33;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";"The last Fight";"Black Maria";;;;;3:27;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";"Dans le coeur de la poussière";"Black Maria";;;;;4:02;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Black Maria";"Ask me no question";"Black Maria";;;;;2:51;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Whisky Barrels";"My wonder";"Blue Steel";;;;;5:29;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Whisky Barrels";"Whisky barrels";"Blue Steel";;;;;5:14;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Whisky Barrels";"Cold shot";"Blue Steel";;;;;4:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;J'aime;"Si ou wé";"Bouddha Sticks";;;;;3:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Petit-fils de Fantômas";"Petit-fils de Fantômas";Boule;;;;;3:57;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Petit-fils de Fantômas";"Cervelle de moineau";Boule;;;;;4:14;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Je suis artiste";"machin et machine";Boule;;;;;2:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Je suis artiste";"les baldaquins";Boule;;;;;4:09;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Je suis artiste";"j'ai du mal";Boule;;;;;3:37;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Petit-fils de Fantômas";"Penser à voir un psychologue";Boule;;;;;2:51;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Je suis artiste";"monsieur connard";Boule;;;;;6:08;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Je suis artiste";"Ma dernière chanson";Boule;;;;;5:02;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Buckaroo Banzaï";"Bastards never keep control";"Buckaroo Banzaï";;;;;1:49;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Buckaroo Banzaï";"L'hemisphere des paumes";"Buckaroo Banzaï";;;;;2:49;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Buckaroo Banzaï";"Les chiens";"Buckaroo Banzaï";;;;;2:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;"delit d'opinion";Bug;;;;;4:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;"L envol";Bug;;;;;4:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;"L'arrogance humaine";Bug;;;;;3:58;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;S(ph)ere;Bug;;;;;2:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;Resistance;Bug;;;;;3:36;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;Tentations;Bug;;;;;5:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;"La part du crime";Bug;;;;;4:16;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;Illusion;Bug;;;;;5:03;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;Nitro;Bug;;;;;1:50;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;"Le piege";Bug;;;;;3:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;Codeine;Bug;;;;;4:48;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Bug;"Septieme sens";Bug;;;;;3:48;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les mercredis";"J'ai une dent qui tremblotte";Cabriole;;;;;6:20;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les mercredis";"Le chapeau de Jules";Cabriole;;;;;6:57;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Flower of Zouk";"Flower of youth";"Camart Jazz";;;;;4:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Flower of Zouk";"As You";"Camart Jazz";;;;;4:20;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Candy Lies";"Pop Star";"Candy Lies";;;;;3:41;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Skywalker\'s dream";"The way you want my dreams";"Candy Lies";;;;;3:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Candy Lies";Quiet;"Candy Lies";;;;;4:10;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Celtica;"My Johnny was a shoemaker";Celtica;;;;;3:28;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Celtica;Morrikesh;Celtica;;;;;3:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Celtica;"King of Laois / Tell me Ma";Celtica;;;;;4:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chiche Capon";"La sicilienne";"Chiche Capon";;;;;3:26;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Basta;"L'homme sandwich du jour d'halloween";"Chiche Capon";;;;;3:28;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Salsa, son y mambo";"No te creo";Chiminango;;;;;4:49;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Catharsis;"Part 1";Christine;;;;;5:48;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"We don't step on toes we step on necks";"Face the facts";"Chux Bollox";;;;;4:28;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"We don't step on toes we step on necks";"Leave it all behind";"Chux Bollox";;;;;4:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"We don't step on toes we step on necks";"House built on lies";"Chux Bollox";;;;;5:32;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";Adelaide;"City Kids";;;;;5:23;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";"Poison dream";"City Kids";;;;;3:08;01/03/2014;30/03/2014;FR;14;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The name of the game";"State control";"City Kids";;;;;3:49;01/03/2014;30/03/2014;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"Round midnight";"City Kids";;;;;2:55;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";"Round midnight";"City Kids";;;;;2:58;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";"The real thing";"City Kids";;;;;3:49;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The name of the game";"Mad shadows";"City Kids";;;;;4:52;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"For Kids";"City Kids";;;;;3:11;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";"For kids";"City Kids";;;;;3:26;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";Rebels;"City Kids";;;;;4:39;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The name of the game";"Name of the game";"City Kids";;;;;3:40;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"You're not alone";"City Kids";;;;;4:54;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";"Lilling anyone";"City Kids";;;;;4:03;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";"Dawn of love";"City Kids";;;;;4:44;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The name of the game";Speeding;"City Kids";;;;;4:39;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"One second more";"City Kids";;;;;5:00;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";"One second more";"City Kids";;;;;4:40;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";"Shell world";"City Kids";;;;;3:25;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The name of the game";Security;"City Kids";;;;;3:46;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"The rave is on";"City Kids";;;;;3:06;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";"Friends in heaven";"City Kids";;;;;3:25;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";Nightfall;"City Kids";;;;;3:47;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The name of the game";"Old man skin";"City Kids";;;;;6:05;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"Drop the line";"City Kids";;;;;3:33;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";"Tomorrow heroes";"City Kids";;;;;5:09;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";Liar;"City Kids";;;;;4:14;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"In your veins";"City Kids";;;;;5:01;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";Future;"City Kids";;;;;5:54;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";"Promised land";"City Kids";;;;;3:57;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"Poison dream";"City Kids";;;;;3:05;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";"In your veins";"City Kids";;;;;4:37;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";S.H.infinity;"City Kids";;;;;3:28;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"Promised land";"City Kids";;;;;4:39;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";"Break all the rules";"City Kids";;;;;3:15;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The orphans parade";"All fools day";"City Kids";;;;;6:04;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"Killing anyone";"City Kids";;;;;3:33;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Third Life";"Earth town";"City Kids";;;;;5:14;01/03/2014;30/03/2014;FR;13;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live;"I need your noise";"City Kids";;;;;6:52;01/03/2014;30/03/2014;FR;20;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Claire et ses radis";"Une polka et puis pas";"Claire et ses radis";;;;;1:23;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Color Island";"Ne laisse pas";"Color Island";;;;;6:49;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Cocktail;"Wolfside (Nothing like used)";"Compilation Cocktail";;;;;4:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"My North Eye: Wade in the water";"Compilation I Love LH";;;;;3:46;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Mattic: Red Giant";"Compilation I Love LH";;;;;3:36;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"KitchenMen: Eye of the Cyclone";"Compilation I Love LH";;;;;1:50;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Sheraf: My blue eyed Boy";"Compilation I Love LH";;;;;3:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Amara: La colline";"Compilation I Love LH";;;;;3:07;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I Love LH #3";"Petit-fils de Fantômas (Boule)";"Compilation I Love LH";;;;;3:52;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Hero: D S & RaR";"Compilation I Love LH";;;;;3:28;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Anton: My world";"Compilation I Love LH";;;;;3:45;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Marina Quaisse: 8th of July";"Compilation I Love LH";;;;;3:43;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I Love LH #3";"I shot my woman (The Footnotes)";"Compilation I Love LH";;;;;3:32;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Golden Gloss and the Cannon: I don't know";"Compilation I Love LH";;;;;3:40;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Comont: A little fairie in the sky";"Compilation I Love LH";;;;;3:27;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Aña: Ces roses flotteront sur l'océan";"Compilation I Love LH";;;;;3:30;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Pape Cissokho: Xabarou Rewmi";"Compilation I Love LH";;;;;4:00;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Aloha Orchestra: Dreaming is forbidden for him";"Compilation I Love LH";;;;;2:01;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"DEF: 3 lettres";"Compilation I Love LH";;;;;3:04;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Manuchka: La fièvre";"Compilation I Love LH";;;;;3:34;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Family Tree: Electric garden";"Compilation I Love LH";;;;;3:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I Love LH #3";"Ma banquière (SouinQ)";"Compilation I Love LH";;;;;3:26;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"2D: Sound leads me";"Compilation I Love LH";;;;;3:29;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Grapes: Blue sky";"Compilation I Love LH";;;;;2:28;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"T-Bib: The world is ours";"Compilation I Love LH";;;;;1:54;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Need a brain: Life is a stupid game";"Compilation I Love LH";;;;;3:51;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"I love LH # 4";"Les 4 elles et Lui: Mélodie";"Compilation I Love LH";;;;;2:48;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les terrasses du jeudi 2008";"Le guerrier du béton (Bertrand et ...)";"Compilation Les terrasses du jeudi";;;;;2:51;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les terrasses du jeudi 2008";"Get lost (Celestial brocken cast)";"Compilation Les terrasses du jeudi";;;;;3:01;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les terrasses du jeudi 2008";"Take off (Dirty important person)";"Compilation Les terrasses du jeudi";;;;;4:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les terrasses du jeudi 2008";"Unphotographable (Eugène Steed)";"Compilation Les terrasses du jeudi";;;;;4:55;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les découvertes de Bourges et de la FNAC";"Dick voodoo: Tinyroom";"Compilation Printemps de Bourges";;;;;4:35;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Playlist n°1";"Night of the bleeding pets II (Your Happy End)";"Compilation Sonothèque";;;;;3:50;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Playlist n°1";"Dark days (Anton)";"Compilation Sonothèque";;;;;3:26;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Playlist n°1";"Crépuscule (Aude Rose)";"Compilation Sonothèque";;;;;2:04;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Playlist n°1";"BeeSide (Bumble Bzz)";"Compilation Sonothèque";;;;;2:52;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Playlist n°1";"Collector (Dick Voodoo)";"Compilation Sonothèque";;;;;3:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Playlist n°1";"Codalambic (Kumquat)";"Compilation Sonothèque";;;;;1:17;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Playlist n°1";"Flowers and Bank (Mathilda Tree)";"Compilation Sonothèque";;;;;3:24;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Playlist n°1";"Depuis tant d'années déjà feat. La Maison Tellier (Sparrow & Nightingale)";"Compilation Sonothèque";;;;;4:39;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;3;Intro;"Compte à rebours";;;;;0:55;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Of miles and Men";"Punky Xmas";"Crumble Lane";;;;;3:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"4 years";"4 years";D.R.E.W;;;;;6:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Good News";Ante;"Dead rock machine";;;;;5:18;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Merci;"My Name Is";DEF;;;;;3:43;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Dick Voodoo";"Mirage of lust";"Dick Voodoo";;;;;3:20;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Dick Voodoo Album";"Under Breath";"Dick Voodoo";;;;;2:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Dick Voodoo";Silvie;"Dick Voodoo";;;;;4:55;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Dick Voodoo Album";"Surfing the dithch";"Dick Voodoo";;;;;3:02;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Point d\'interrogation";"Question Of Anxiety";"Dicky Bird";;;;;4:33;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"Little Johnny Jet";Dogs;;;;;3:22;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Different;"A different me";Dogs;;;;;2:49;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"4 of a kind (Single)";"Jenny Jane";Dogs;;;;;3:43;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";"Shakin with Linda";Dogs;;;;;2:39;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"4 of a kind";"Dreadful times";Dogs;;;;;2:53;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"If You Don't Want Me No More";Dogs;;;;;3:07;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Too Much Class For The Neighbourhood";"Shakin' with linda";Dogs;;;;;2:43;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"Everything but love";Dogs;;;;;2:32;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Different;"Gotta tell her";Dogs;;;;;1:59;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";"Too much class for the neighbourhood";Dogs;;;;;2:51;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"4 of a kind";"4 of a kind";Dogs;;;;;4:14;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"Dreadful Times";Dogs;;;;;2:58;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Too Much Class For The Neighbourhood";"Wanderin' robin";Dogs;;;;;3:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"Never come back";Dogs;;;;;3:21;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";MAUREEN;Dogs;;;;;3:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"4 of a kind";"Dead girls don't talk";Dogs;;;;;4:10;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"4 Of A Kind";Dogs;;;;;4:09;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Too Much Class For The Neighbourhood";"The most forgotten french boy";Dogs;;;;;3:15;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"Never come back";Dogs;;;;;3:32;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";"Can't find my way";Dogs;;;;;3:50;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"4 of a kind";"Professional liar";Dogs;;;;;3:04;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"(I'd Go) The Whole Wide World";Dogs;;;;;2:57;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"I'm just losing that girl";Dogs;;;;;1:44;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";"The most forgotten french boy";Dogs;;;;;3:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"4 of a kind";"Forget that dog";Dogs;;;;;3:55;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"Too Much Class For The Neighborhood";Dogs;;;;;2:44;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"Can't find my way";Dogs;;;;;3:53;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";"Little Johnny Jet";Dogs;;;;;3:19;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"4 of a kind";"Back on the horse";Dogs;;;;;4:02;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"When I Was Young";Dogs;;;;;3:31;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";M.A.U.R.E.E.N;Dogs;;;;;3:24;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";"Home is where I want to be";Dogs;;;;;2:36;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"4 of a kind";"I'm bad";Dogs;;;;;2:13;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"19 Again";Dogs;;;;;2:52;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"If you don't want me no more";Dogs;;;;;3:03;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";Shout;Dogs;;;;;6:48;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"A Different Me";Dogs;;;;;3:11;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"Bird doggin'";Dogs;;;;;3:01;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";Secrets;Dogs;;;;;3:30;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"Little Doll";Dogs;;;;;6:32;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"Be my lover";Dogs;;;;;4:03;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";"Poison in my heart";Dogs;;;;;3:16;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"Back From Nowhere";Dogs;;;;;3:26;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Legendary lovers";"I got somebody";Dogs;;;;;3:13;01/03/2014;30/03/2014;FR;9;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";"Down at Lulu's";Dogs;;;;;2:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"Walkin' Shadows";Dogs;;;;;4:02;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Shakin with the dogs";Somebody;Dogs;;;;;3:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"I'm Just Losing That Girl";Dogs;;;;;1:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"Todays Sounds Like Yesterday";Dogs;;;;;4:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Short, fast and tight (CD2)";"96 Tears";Dogs;;;;;2:50;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Inna di town";"Ah! vous dirais je";"Dubbin\'";;;;;3:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"It's brand new";"Boys will be boys";"For the Hackers";;;;;3:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"It's brand new";Glam;"For the Hackers";;;;;2:52;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Franck Langolff";"Le secret";"Franck Langolff";;;;;5:14;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Normal;Normal;"Franck Langolff";;;;;5:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Parce que je peux pas faire autrement";"Parce que je peux pas faire autrement";"Franck Langolff";;;;;4:12;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Normal;"Allez roulez";"Franck Langolff";;;;;4:54;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Franck Langolff";"Come back baby (America)";"Franck Langolff";;;;;3:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Normal;Loic;"Franck Langolff";;;;;5:59;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Normal;"Du vent dans un harmonica";"Franck Langolff";;;;;6:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Normal;"Je suis un homme heureux";"Franck Langolff";;;;;6:58;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Normal;Tue-moi;"Franck Langolff";;;;;5:56;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Oulipop;"L'un contre l'autre";Frandol;;;;;3:50;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Double fond";"Sept ans";Frandol;;;;;3:16;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Double fond";Contorsions;Frandol;;;;;4:20;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Double fond";Lévitation;Frandol;;;;;3:55;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Oulipop;"Fake real";Frandol;;;;;0:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Oulipop;"Partis d'une case";Frandol;;;;;2:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Oulipop;"Sans sens";Frandol;;;;;0:58;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Hot pieces";"Beggin' for a shot";"Gordon Melon";;;;;2:44;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Hot pieces";Ferry;"Gordon Melon";;;;;4:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The bridge";"Where did you go";"Grand Final";;;;;5:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Some kinds of happiness";"So fine";Grapes;;;;;2:59;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Some kinds of happiness";"Alarm clock";Grapes;;;;;2:47;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Some kinds of happiness";"Who cares to waste?";Grapes;;;;;2:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Some kinds of happiness";"Earl grey city";Grapes;;;;;2:58;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Some kinds of happiness";"Heart to drown";Grapes;;;;;2:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Some kinds of happiness";"Pretty baby";Grapes;;;;;2:14;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Some kinds of happiness";"Velvet glove";Grapes;;;;;2:46;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Green Street";"JaSsy Bullet";"Green Street";;;;;5:19;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Gul de Boa";"La saison des seins";"Gul de Boa";;;;;3:43;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"2000 ans d'amour";"Gul de Boa";;;;;5:46;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"Le pavé numérique";"Gul de Boa";;;;;2:09;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Gul de Boa";"Quatorze cent mille";"Gul de Boa";;;;;5:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"Les americains";"Gul de Boa";;;;;4:54;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"La fucking guitar";"Gul de Boa";;;;;3:44;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Gul de Boa";"Vue charogne";"Gul de Boa";;;;;3:04;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"Ma martienne";"Gul de Boa";;;;;3:46;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"Le chant des peaux si bleues";"Gul de Boa";;;;;4:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Gul de Boa";"Auf Wiederscheu Doctor Johns";"Gul de Boa";;;;;3:33;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"Le dimanche";"Gul de Boa";;;;;6:16;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";Masochiste;"Gul de Boa";;;;;3:28;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Gul de Boa";"Bien l'bonjour à vot'dame Yeah!";"Gul de Boa";;;;;3:44;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"Le divin divan d'Eva";"Gul de Boa";;;;;1:23;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"Un peu";"Gul de Boa";;;;;3:32;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"La meteo marine";"Gul de Boa";;;;;6:52;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";???;"Gul de Boa";;;;;3:28;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"N'écrasez pas les grands-meres";"Gul de Boa";;;;;6:09;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"Un peu";"Gul de Boa";;;;;2:54;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";L'âme;"Gul de Boa";;;;;3:57;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"La crise";"Gul de Boa";;;;;2:44;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"Y'a les keufs";"Gul de Boa";;;;;4:15;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"Cocotte minute";"Gul de Boa";;;;;2:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"Juste et c'est tout";"Gul de Boa";;;;;2:18;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"Ton cul";"Gul de Boa";;;;;2:26;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"Laisse-moi m'oublier tout seul";"Gul de Boa";;;;;3:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"Les nouvelles du dimanche";"Gul de Boa";;;;;3:35;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"Sous ta peau";"Gul de Boa";;;;;3:31;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";"Mi Ammazzi (Tu me tues)";"Gul de Boa";;;;;2:41;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";"La vilaine rengaine";"Gul de Boa";;;;;3:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le chant des peaux si bleues";Immature;"Gul de Boa";;;;;2:52;01/03/2014;30/03/2014;FR;18;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Chic et  Pourrave";Oublier;"Gul de Boa";;;;;3:46;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Avant fermeture définitive";Coriolis;Hauchecorne;;;;;2:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Highscream;"Track 01";Highscream;;;;;5:18;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Highscream;"Track 02";Highscream;;;;;5:17;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Derriere les annees";J'essayais;"Holy Land";;;;;0:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Derriere les annees";"Derriere les annees";"Holy Land";;;;;0:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Derriere les annees";"Je n'veux pas savoir";"Holy Land";;;;;0:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Altruistic suicide";"Survival sickness";"Horror Show Destruction";;;;;1:43;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Pure ass";"Lesbians searching for a king";"Horror Show Destruction";;;;;1:54;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Altruistic suicide";"Golden wristlace";"Horror Show Destruction";;;;;1:12;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Pure ass";Sudoku;"Horror Show Destruction";;;;;1:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Clandestina;"Canal hors zone club";"Hors Zone";;;;;1:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Clandestina;Beluga;"Hors Zone";;;;;4:08;01/03/2014;30/03/2014;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Clandestina;"Ma vie";"Hors Zone";;;;;3:46;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Clandestina;"Rester sage";"Hors Zone";;;;;3:43;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Clandestina;Clandestina;"Hors Zone";;;;;3:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Clandestina;"Encore un jour";"Hors Zone";;;;;4:14;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Clandestina;"Je ne sais pas voler";"Hors Zone";;;;;4:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Clandestina;"Le roi des fous";"Hors Zone";;;;;3:12;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Saudade cuando da";"Agua de beber";Iguaçu;;;;;5:07;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Saudade cuando da";"Les eaux de mars";Iguaçu;;;;;3:32;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Saudade cuando da";Palco;Iguaçu;;;;;5:08;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Saudade cuando da";"Chemin vers l'ocean";Iguaçu;;;;;3:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J.J Blues";"I'm tore down";"J.J Blues";;;;;4:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Wonderful why";Time;"Jasdarke & the bright lights";;;;;3:52;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Skott de Porc - Porc no Star";"Le camping des sodmites";"Jean Bon";;;;;3:24;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sang frais de porc";"Amour canin";"Jean Bon";;;;;1:02;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sang frais de porc";"Sandwich au thon";"Jean Bon";;;;;1:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sang frais de porc";"Le festin cul";"Jean Bon";;;;;1:50;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sang frais de porc";D2R2;"Jean Bon";;;;;1:37;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le gant de velours";"On a tous quelque chose à vendre";Joad;;;;;3:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"John Merrick's Family";"La fete a Lucie";"John Merrick's Family";;;;;3:17;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Live!;Intro;"King Riddim";;;;;3:03;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The bite of Dew-Dew";"Love parade";Klim;;;;;2:47;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The bite of Dew-Dew";"I want you to want me";Klim;;;;;3:12;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The bite of Dew-Dew";"Hello slave";Klim;;;;;4:20;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The bite of Dew-Dew";"Day to day";Klim;;;;;2:48;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The bite of Dew-Dew";"So blind";Klim;;;;;3:16;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Higher;"Scale it (Original Mix / Feat. Tima)";KorgBrain;;;;;3:41;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Higher;"Infatuated (Original Mix / Feat. Yann Dulche & Dinia";KorgBrain;;;;;3:01;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Higher;"AdaM (Original Mix / Feat. Startlion)";KorgBrain;;;;;3:19;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Higher;"White (Original Mix / Feat. Sana Maze)";KorgBrain;;;;;5:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"That\'s all fucks!";"Hazards & Choice";Kwashiorkor;;;;;3:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"La samba de la compile";"L'Orchestre du Grand Turc";;;;;3:36;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Teuf-Teuf;Pot-Pourri;"L'Orchestre du Grand Turc";;;;;8:49;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Le métro";"L'Orchestre du Grand Turc";;;;;1:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Le premier rendez-vous";"L'Orchestre du Grand Turc";;;;;3:07;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Oui, si tu me dis oui";"L'Orchestre du Grand Turc";;;;;3:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Duo champêtre";"L'Orchestre du Grand Turc";;;;;2:18;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Teuf-Teuf;"Moi j'préfère la Marche à Pied";"L'Orchestre du Grand Turc";;;;;2:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Le printemps";"L'Orchestre du Grand Turc";;;;;2:17;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Je bois";"L'Orchestre du Grand Turc";;;;;3:16;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Polka des rieurs";"L'Orchestre du Grand Turc";;;;;1:31;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Les balayeurs badins";"L'Orchestre du Grand Turc";;;;;1:47;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Les pompistes";"L'Orchestre du Grand Turc";;;;;3:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"T'es trop grand pour mon garage";"L'Orchestre du Grand Turc";;;;;3:36;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Les frotteurs de corridor";"L'Orchestre du Grand Turc";;;;;1:59;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Vite un pupitre";"L'Orchestre du Grand Turc";;;;;2:19;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Opéra triste";"L'Orchestre du Grand Turc";;;;;9:30;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Air de Rélaréré";"L'Orchestre du Grand Turc";;;;;2:14;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Moi j'pétarade plus haut que mon pot";"L'Orchestre du Grand Turc";;;;;2:25;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Ah les nouilles";"L'Orchestre du Grand Turc";;;;;1:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"One step de l'asile central";"L'Orchestre du Grand Turc";;;;;3:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Les merlans";"L'Orchestre du Grand Turc";;;;;2:31;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Les lanciers du carrefour";"L'Orchestre du Grand Turc";;;;;3:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"C'est idiot mais c'est marrant";"L'Orchestre du Grand Turc";;;;;5:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Tiger Rag";"L'Orchestre du Grand Turc";;;;;3:15;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les 30 ans";"Rondo alla Grand Turc";"L'Orchestre du Grand Turc";;;;;4:10;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rappel;"C'est tout c'qu'on à";"La boussole";;;;;1:24;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rappel;"A venir";"La boussole";;;;;5:18;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rappel;"Racines feat.Disiz la Peste";"La boussole";;;;;4:25;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le savoir est une arme";"Les professeurs";"La boussole";;;;;5:51;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rappel;"Y'a pas de cagoule feat Soprano (Psy4 de la Rime)";"La boussole";;;;;4:20;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"La Familia";"Lili Wah";"La familia";;;;;4:13;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"La Familia";"La familia";"La familia";;;;;4:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"La Familia";"Y nada los parara";"La familia";;;;;4:59;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"La Familia";"La casa de Mama Tifa";"La familia";;;;;5:30;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"L\'art de la Fugue";Babouin;"La Maison Tellier";;;;;3:03;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"Sur un volcan";"La Maison Tellier";;;;;3:06;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"L\'art de la Fugue";"Five years blues";"La Maison Tellier";;;;;3:31;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"Un bon français";"La Maison Tellier";;;;;3:57;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"La fortune, l'honneur, les femmes (Loup Blanc)";"La Maison Tellier";;;;;3:44;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"Prison d'Eden";"La Maison Tellier";;;;;4:04;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"La Maison Tellier";"Willard and the Crushing Dam";"La Maison Tellier";;;;;5:08;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"L\'art de la Fugue";"La peste";"La Maison Tellier";;;;;3:51;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"L'exposition Universelle";"La Maison Tellier";;;;;5:01;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"L\'art de la Fugue";"Mount forever";"La Maison Tellier";;;;;3:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"La maison de nos pères";"La Maison Tellier";;;;;7:15;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"L\'art de la Fugue";"Laissez venir";"La Maison Tellier";;;;;4:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";L.O.V.E.B.O.A.T;"La Maison Tellier";;;;;4:42;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"L\'art de la Fugue";"L'art de la fugue";"La Maison Tellier";;;;;3:27;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"A rebours";"La Maison Tellier";;;;;3:17;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"L\'art de la Fugue";Goldmine;"La Maison Tellier";;;;;2:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"Les beaux quartiers";"La Maison Tellier";;;;;4:17;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"L\'art de la Fugue";"Josh the preacher";"La Maison Tellier";;;;;3:51;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"Petit Lapin";"La Maison Tellier";;;;;5:41;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beauté pour tous";"Mauvais coton";"La Maison Tellier";;;;;5:30;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Paleolithically correct";"Live with someone else";"La Trofa";;;;;3:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Je suis diva";"L'envers, c'est les autres";"Lady Arlette";;;;;3:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Je suis diva";"Je suis diva";"Lady Arlette";;;;;3:27;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le Horla";Wheels;"Le Horla";;;;;5:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Faits d\'hiver";"La triste histoire du pauvre marin solitaire";"Le P'tit Bazar";;;;;3:46;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Faits d\'hiver";"Chez mamie";"Le P'tit Bazar";;;;;4:09;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Faits d\'hiver";"La fete des fous";"Le P'tit Bazar";;;;;5:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Nothing to hide";"In the park";"Leave her to heaven";;;;;3:49;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Gordino Project";"Hellfire Club";"Liquid TV";;;;;3:49;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Alive or nothing";"All or nothing";"Little Bob";;;;;3:22;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"Little big boss";"Little Bob";;;;;2:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Lost Territories";"Lost Territories";"Little Bob";;;;;6:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"High time";"High time";"Little Bob";;;;;5:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Little Bob story";"I'm crying";"Little Bob";;;;;3:23;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";"For nothing";"Little Bob";;;;;2:58;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"High Time + Like rock'n'Roll";"High Time";"Little Bob";;;;;4:09;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"All or nothing";"Little Bob";;;;;3:24;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"High time";"Delices of my youth";"Little Bob";;;;;3:54;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Little Bob story";"Come on home";"Little Bob";;;;;4:12;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Gift - Still burning";"County jail boogie";"Little Bob";;;;;2:24;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";"Off the rails";"Little Bob";;;;;3:42;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"Dress in black";"Little Bob";;;;;3:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Little Bob story";"I need money";"Little Bob";;;;;2:27;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";"hometown crowd";"Little Bob";;;;;2:04;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";"Nobody's born to lose";"Little Bob";;;;;4:19;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"Riot in Toulouse";"Little Bob";;;;;5:50;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";"Italian nights";"Little Bob";;;;;3:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"When the night comes";"Little Bob";;;;;3:35;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Lost Territories";"Jimmy Tramp";"Little Bob";;;;;5:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";"Come see me";"Little Bob";;;;;3:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Live in the Dockland (2005)";"Back door man";"Little Bob";;;;;4:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";Baby;"Little Bob";;;;;3:25;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";"Seaside bar song";"Little Bob";;;;;3:18;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"You make me crazy";"Little Bob";;;;;3:54;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Vacant Heart";"Mad Dog";"Little Bob";;;;;2:36;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";Try;"Little Bob";;;;;3:09;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";Mr.Tap;"Little Bob";;;;;2:49;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";Action;"Little Bob";;;;;2:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";Nothin'else;"Little Bob";;;;;4:25;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";"In love with Peggy Sue";"Little Bob";;;;;4:02;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"Hot n'sweaty (Live in Belfast 1977)";"Little Bob";;;;;3:08;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Come see me";"You've missed too much";"Little Bob";;;;;5:00;01/03/2014;30/03/2014;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"Music of our life";"Little Bob";;;;;2:58;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";Suzy;"Little Bob";;;;;2:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"Night could be easy - Bob's reggae";"Little Bob";;;;;3:09;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"You don't need to know";"Little Bob";;;;;1:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Livin\' in the fast lane";"She's a heartbreaker";"Little Bob";;;;;3:09;01/03/2014;30/03/2014;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"L'ivresse des profondeurs";"Brume de chaleur";"Louise Feron";;;;;3:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Musique juive de méditerranée";"Ya ghadi l'Sahra";Manguina;;;;;4:44;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Musique juive de méditerranée";"La rosa enflorece";Manguina;;;;;4:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Musique juive de méditerranée";"Nani nani";Manguina;;;;;4:22;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Fait le ménage";"L'odeur de ta lessive feat HAS";Manue;;;;;4:28;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Echelle Humaine";"Echelle humaine";"Marc Minelli";;;;;6:52;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Echelle Humaine";"Ford Mustang (Tribute Mix)";"Marc Minelli";;;;;4:07;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Echelle Humaine";Piste11;"Marc Minelli";;;;;3:17;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Lui le poete - Tout va bien";"Lui le poete";"Mardi sous la pluie";;;;;3:19;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Lui le poete - Tout va bien";"Tout va bien";"Mardi sous la pluie";;;;;3:08;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Mary;"Quelle est ma peur...?";Mary;;;;;3:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ciel Normand";"Le bonheur";"Matthieu L";;;;;3:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ciel Normand";"Gris Bleu";"Matthieu L";;;;;3:29;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ciel Normand";"You are too wild";"Matthieu L";;;;;3:32;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ciel Normand";"Saint Germain";"Matthieu L";;;;;3:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ciel Normand";"Je veux qu'il pleuve";"Matthieu L";;;;;2:39;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ciel Normand";"Over the grey sea";"Matthieu L";;;;;3:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ciel Normand";"Ciel Normand";"Matthieu L";;;;;3:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"An Introduction to Doctor Outer";"Let Us In";Mattic;;;;;3:47;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Live june 16th";"Gimme some friendship";"Mister Moonlight";;;;;4:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Live june 16th";Ashes;"Mister Moonlight";;;;;4:28;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Live june 16th";"You don't wanna play with fire";"Mister Moonlight";;;;;5:47;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Live june 16th";"Season of the witch";"Mister Moonlight";;;;;4:19;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Monsieur Wolf";"Délicieuse comédie";"Monsieur Wolf (Patrick Gouffran)";;;;;2:08;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Gospel;Gospel;"My north eye";;;;;4:37;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Gospel;"Nothing for nothing";"My north eye";;;;;3:20;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Gospel;"My brand new heart";"My north eye";;;;;3:02;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"My Silly Dogfish";"Sun Flower seeds";"My Silly Dogfish";;;;;2:51;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"My Silly Dogfish";"Radical Chic";"My Silly Dogfish";;;;;2:35;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"My Silly Dogfish";Shake;"My Silly Dogfish";;;;;3:23;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"My Silly Dogfish";"Complete Unknown";"My Silly Dogfish";;;;;6:50;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"My Silly Dogfish";"Closer than Close";"My Silly Dogfish";;;;;3:37;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"My Silly Dogfish";Erasure;"My Silly Dogfish";;;;;3:31;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"My Silly Dogfish";"Chocolate Farms";"My Silly Dogfish";;;;;3:17;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"My Silly Dogfish";"Copper and Gold";"My Silly Dogfish";;;;;2:12;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Enjoy the night";"Enjoy the night";"N U I T";;;;;3:00;01/03/2014;30/03/2014;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Enjoy the night";"I feel love";"N U I T";;;;;4:00;01/03/2014;30/03/2014;FR;9;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Enjoy the night";"Not here to fight";"N U I T";;;;;3:47;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Enjoy the night";"No Pain No Game";"N U I T";;;;;2:50;01/03/2014;30/03/2014;FR;25;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"We are the unknowers";"We are the unknowers";Neïde;;;;;2:31;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"We are the unknowers";"If anger is raging";Neïde;;;;;2:00;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"We are the unknowers";"Don't claim";Neïde;;;;;1:09;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"We are the unknowers";"What keeps us bounds";Neïde;;;;;2:51;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"We are the unknowers";"Dead to the world";Neïde;;;;;6:18;01/03/2014;30/03/2014;FR;14;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Mais qu'est ce tu veux petit";"Mais qu'est-ce que tu veux petit";"Ness et Cité";;;;;3:50;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Rien a prouver";"Ness et Cité";;;;;2:43;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Ghetto Moudjahidin";"Ness et Cité";;;;;3:24;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Rimes et batiments";"Ness et Cité";;;;;4:33;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Haine story (Feat. Fabe)";"Ness et Cité";;;;;3:59;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Cause commune";"Ness et Cité";;;;;1:51;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";Bismillah;"Ness et Cité";;;;;3:44;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Mafieux sans mafia (Feat. Ibrah & NH)";"Ness et Cité";;;;;5:07;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Baston de regards (Feat. PAD)";"Ness et Cité";;;;;3:55;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Si tristes sont nos vies";"Ness et Cité";;;;;4:50;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";Vice-sert;"Ness et Cité";;;;;3:59;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Voue a se devouer";"Ness et Cité";;;;;2:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"Donnant donnant (Feat. Enarce & Koto)";"Ness et Cité";;;;;4:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";Melodrame;"Ness et Cité";;;;;4:53;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ghetto Moudjahidin";"A venir";"Ness et Cité";;;;;5:17;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Duo Acoustique";"La tangente";Noon;;;;;3:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les grands moments nouent les grands momes en nous";"A corps et a cris";Noon;;;;;5:12;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;L'imparfait;"De tous les sens";Noon;;;;;3:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;V.O;"A corps et à cris";Noon;;;;;5:16;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Duo Acoustique";Paranocive;Noon;;;;;5:59;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;L'imparfait;Paranocive;Noon;;;;;5:33;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;V.O;"L'art du mensonge";Noon;;;;;3:07;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Duo Acoustique";"Je vous salis ma rue";Noon;;;;;3:34;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;L'imparfait;Anti-rap;Noon;;;;;2:54;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;V.O;"Si l'on se disait la vérité?";Noon;;;;;3:09;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Duo Acoustique";Manouchka;Noon;;;;;3:15;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les grands moments nouent les grands momes en nous";"Les moments doux";Noon;;;;;5:08;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;L'imparfait;"A cor et à cri";Noon;;;;;4:15;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Duo Acoustique";"La ptite bete";Noon;;;;;3:39;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Northern light";"I'm starving";"Northern light";;;;;-1;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Nothing;"You don't know me";Nothing;;;;;4:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Nothing;Push;Nothing;;;;;4:04;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Nothing;"No reaction";Nothing;;;;;5:55;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Nothing;"Spirit water alive";Nothing;;;;;5:48;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Old Battlefield Entertainer";"Lost in Blue Valley";"Old Battlefield Entertainer";;;;;5:47;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Old Battlefield Entertainer";"The Bridge";"Old Battlefield Entertainer";;;;;4:41;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Old Battlefield Entertainer";"Inside Out";"Old Battlefield Entertainer";;;;;7:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";"Le jeu de l'oie";Orchester;;;;;4:49;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";"The craftsmen";Orchester;;;;;5:26;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";Halo;Orchester;;;;;4:22;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";"The favorite";Orchester;;;;;4:06;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";Pooch;Orchester;;;;;3:35;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";Interlude;Orchester;;;;;2:03;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";"Mi tierra";Orchester;;;;;4:31;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";Victoria;Orchester;;;;;5:12;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";Fall;Orchester;;;;;3:25;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";"Sing to me";Orchester;;;;;4:16;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Craftsmen";"Before meeting together once again";Orchester;;;;;3:35;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";"Diddie wa Diddie";"Oscar Berenger";;;;;2:48;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";"Dans mon lit";"Oscar Berenger";;;;;3:21;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";"Sans rien";"Oscar Berenger";;;;;3:51;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";"Qu'on m'aime";"Oscar Berenger";;;;;3:32;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";"En douceur";"Oscar Berenger";;;;;3:16;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";Deja;"Oscar Berenger";;;;;4:02;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";Serieux;"Oscar Berenger";;;;;3:16;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";"Quel temps";"Oscar Berenger";;;;;3:28;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";"Les doigts";"Oscar Berenger";;;;;3:11;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";"Mon Papa demande";"Oscar Berenger";;;;;3:12;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sans rien";"T'enerve pas";"Oscar Berenger";;;;;2:57;01/03/2014;30/03/2014;FR;13;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Secret Gardens";"Strange apple";"OXP (the other xperience)";;;;;4:23;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Secret Gardens";"Get over it";"OXP (the other xperience)";;;;;4:26;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Nouveaux Horizons";"Ville de Liberté";"OXP (the other xperience)";;;;;4:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Secret Gardens";"Show me more";"OXP (the other xperience)";;;;;8:36;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Secret Gardens";"It will never die";"OXP (the other xperience)";;;;;4:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Secret Gardens";"With my mu";"OXP (the other xperience)";;;;;4:42;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Nouveaux Horizons";"Dans les étoiles";"OXP (the other xperience)";;;;;3:27;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Nouveaux Horizons";"Nuit Blanche";"OXP (the other xperience)";;;;;5:35;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Nouveaux Horizons";"Tu me rends tout";"OXP (the other xperience)";;;;;6:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Pacemaker;"Laids Bons";Pacemaker;;;;;4:06;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Pacemaker;"Une chance";Pacemaker;;;;;3:52;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Pacemaker;L'aurore;Pacemaker;;;;;4:24;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Un p'tit Bonjour";Tonton;"Parcequ'il en fallait un";;;;;2:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Hors-cadre;Prologue;"Patrick Gouffran / Philippe Persil";;;;;1:14;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"My car";"We're satisfied";Persuaders;;;;;3:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Philo et les voix du tambour";Genese;"Philo et les voix du tambour";;;;;1:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Philo et les voix du tambour";Ready;"Philo et les voix du tambour";;;;;5:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Philo et les voix du tambour";"Cada manana ou chaque matin";"Philo et les voix du tambour";;;;;1:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Philo et les voix du tambour";"Kout senn lans'Difou";"Philo et les voix du tambour";;;;;4:04;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The clown wars";"Oh Be Joyful (If You're Good Enough For U.S. Grant You're Good Enough For Me)";"Pink flamingos";;;;;2:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The clown wars";"Daddy Issues";"Pink flamingos";;;;;2:32;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Polaroids Rock 2004";"Maastricht rock (Elliott Murphy)";"Polaroids Rock";;;;;3:14;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Radiosofa;"Au milieu de toi";Radiosofa;;;;;3:31;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Radiosofa;"Mes raisons";Radiosofa;;;;;3:03;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";"L.A. Party";Roadrunners;;;;;4:55;01/03/2014;30/03/2014;FR;25;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"I'm watchin'you";Roadrunners;;;;;3:46;01/03/2014;30/03/2014;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"Initiation Rites";Roadrunners;;;;;5:25;01/03/2014;30/03/2014;FR;25;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"You change all the time";Roadrunners;;;;;3:38;01/03/2014;30/03/2014;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";"Couteau Naif";Roadrunners;;;;;2:33;01/03/2014;30/03/2014;FR;9;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"Saturation point";Roadrunners;;;;;2:10;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"In The 1990's";Roadrunners;;;;;4:09;01/03/2014;30/03/2014;FR;20;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Let it beep";Roadrunners;;;;;2:57;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";"French Kiss";Roadrunners;;;;;4:26;01/03/2014;30/03/2014;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";Contortions;Roadrunners;;;;;4:00;01/03/2014;30/03/2014;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"Let It Beep";Roadrunners;;;;;3:10;01/03/2014;30/03/2014;FR;27;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Sleep tight";Roadrunners;;;;;3:19;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";"Haunted Forever";Roadrunners;;;;;3:34;01/03/2014;30/03/2014;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"Rags under our eyes";Roadrunners;;;;;3:11;01/03/2014;30/03/2014;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"Don't Know Where I Am";Roadrunners;;;;;4:31;01/03/2014;30/03/2014;FR;26;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Don't know where i am";Roadrunners;;;;;3:56;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";"Macadam River";Roadrunners;;;;;3:52;01/03/2014;30/03/2014;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"Hey bulldog";Roadrunners;;;;;2:36;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"Actor's Illusions";Roadrunners;;;;;2:45;01/03/2014;30/03/2014;FR;24;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Jessie James theme";Roadrunners;;;;;2:25;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";Chatterton;Roadrunners;;;;;3:18;01/03/2014;30/03/2014;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"Eye of the cyclone";Roadrunners;;;;;2:11;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"Deluxe Bric A Brac";Roadrunners;;;;;3:39;01/03/2014;30/03/2014;FR;30;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Big city lights";Roadrunners;;;;;2:55;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";"Danseurs de l'ombre";Roadrunners;;;;;3:09;01/03/2014;30/03/2014;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"Beat around the bush";Roadrunners;;;;;2:33;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"Try Me";Roadrunners;;;;;4:20;01/03/2014;30/03/2014;FR;25;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Wrong track";Roadrunners;;;;;4:11;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";"Summertime Frog";Roadrunners;;;;;2:51;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"Count me out";Roadrunners;;;;;2:24;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"Brand New Game";Roadrunners;;;;;4:10;01/03/2014;30/03/2014;FR;27;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Brand new game";Roadrunners;;;;;3:36;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";Firefly;Roadrunners;;;;;3:09;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"Don't wake me up";Roadrunners;;;;;2:44;01/03/2014;30/03/2014;FR;13;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"I'm Crazy About Heroines In Westerns Which End In ""O""";Roadrunners;;;;;3:10;01/03/2014;30/03/2014;FR;27;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Actor's illusions";Roadrunners;;;;;2:36;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";Surfin'Carmen;Roadrunners;;;;;3:00;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"Lucky find";Roadrunners;;;;;2:39;01/03/2014;30/03/2014;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";"I Often Dream Of Trains";Roadrunners;;;;;2:47;01/03/2014;30/03/2014;FR;27;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Initiation rites";Roadrunners;;;;;4:40;01/03/2014;30/03/2014;FR;9;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";Satellites;Roadrunners;;;;;3:28;01/03/2014;30/03/2014;FR;8;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Instant Trouble";"Don't look down";Roadrunners;;;;;5:16;01/03/2014;30/03/2014;FR;13;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Bizarre Rendez vous";Jack;Roadrunners;;;;;1:26;01/03/2014;30/03/2014;FR;43;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";"Muley Graves";Roadrunners;;;;;3:33;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";"Snake in the grass";Roadrunners;;;;;3:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Sales Figures";"Doctor Doxey";Roadrunners;;;;;3:55;01/03/2014;30/03/2014;FR;17;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Beep Show";Mona;Roadrunners;;;;;4:09;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";"Mes absences";"Romain Dudek";;;;;1:26;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le marchand de sable";"Le fantome";"Romain Dudek";;;;;3:30;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";Charbon;"Romain Dudek";;;;;4:03;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le marchand de sable";"Un ange";"Romain Dudek";;;;;2:53;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";"J'veux qu'on m'aime";"Romain Dudek";;;;;3:03;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le marchand de sable";"A travers les rues";"Romain Dudek";;;;;4:26;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";"On peut pas tout faire";"Romain Dudek";;;;;3:35;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Poesie des usines (CD1)";"Bernadette n'aime pas les enfants";"Romain Dudek";;;;;3:28;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le marchand de sable";"Macho rock";"Romain Dudek";;;;;4:17;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";"Aux murs des prisons";"Romain Dudek";;;;;3:24;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le marchand de sable";"Sous les tropiques";"Romain Dudek";;;;;3:39;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";"L'amour et les mots";"Romain Dudek";;;;;2:57;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le marchand de sable";"Le ciel touche la mer";"Romain Dudek";;;;;2:31;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";"C'est de l'intime";"Romain Dudek";;;;;3:36;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Le marchand de sable";"Mon chien";"Romain Dudek";;;;;2:09;01/03/2014;30/03/2014;FR;32;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";"Tous morts tous égaux";"Romain Dudek";;;;;3:28;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";Cannibale;"Romain Dudek";;;;;4:33;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";"C'est comme ça";"Romain Dudek";;;;;3:15;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"J'veux qu'on m'aime";Paresseux;"Romain Dudek";;;;;4:04;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"Too late";Scamps;;;;;4:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"Moon wrecker";Scamps;;;;;2:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"Too good to be true";Scamps;;;;;3:50;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"Hey, Hey";Scamps;;;;;4:17;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"Satisfaction guaranteed";Scamps;;;;;4:01;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"I can tell it";Scamps;;;;;4:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"Get on your feet";Scamps;;;;;3:59;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"Rock on saturday night";Scamps;;;;;3:41;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"You should beat your line";Scamps;;;;;3:14;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"Human Cannonball";Scamps;;;;;4:46;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Scamps;"That's rock";Scamps;;;;;3:00;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Jacknife;"Jack the Ripper";"Screech Owls";;;;;3:25;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Jacknife;Ripperland;"Screech Owls";;;;;3:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Jacknife;Cry;"Screech Owls";;;;;3:02;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";Departure;Shubni;;;;;0:44;01/03/2014;30/03/2014;FR;12;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"The revenge";Shubni;;;;;4:16;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";Unbelievable;Shubni;;;;;3:19;01/03/2014;30/03/2014;FR;11;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"The crown";Shubni;;;;;4:50;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"In love with you";Shubni;;;;;4:53;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"Twelve strings";Shubni;;;;;2:53;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"Le train";Shubni;;;;;3:45;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"Holy mountain";Shubni;;;;;4:55;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"Sister twin";Shubni;;;;;3:40;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"Missing you";Shubni;;;;;1:41;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"Blowing zephir";Shubni;;;;;5:39;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"By my side";Shubni;;;;;2:04;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";"I won't sit anymore";Shubni;;;;;3:29;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The craft of love and other tales from the border";Arrival;Shubni;;;;;4:40;01/03/2014;30/03/2014;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Silt;Spoutnik;Silt;;;;;4:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Silt;"Once again";Silt;;;;;4:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Silt;"The others";Silt;;;;;4:11;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Silt;"Arabian Trip";Silt;;;;;6:09;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Silt;"No memories";Silt;;;;;4:35;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Silt;"The same";Silt;;;;;4:46;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Silt;"Should know";Silt;;;;;5:24;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Watch Out!";"In this distant land";SmallPox;;;;;3:27;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Watch Out!";"Voices all around";SmallPox;;;;;2:28;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Watch Out!";"They don't know that they want";SmallPox;;;;;3:24;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Watch Out!";Tonight;SmallPox;;;;;3:09;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Just Kiddin'";Peanuts;SmallPox;;;;;3:01;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"A decouvert";"Pas tenté";Souinq;;;;;1:12;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"A decouvert";"Je change";Souinq;;;;;5:08;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"A decouvert";"JL swing";Souinq;;;;;3:15;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Mon petit nuage noir";"Mon petit nuage noir";"Stan the Flasher";;;;;3:43;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ces temps de réflexion";"La mémoire courte";"Stan the Flasher";;;;;3:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Mon petit nuage noir";"Les bons souvenirs";"Stan the Flasher";;;;;3:46;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Mon petit nuage noir";"le boxon de la veille";"Stan the Flasher";;;;;1:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"20 minutes";"Pop Star's Club";"Tahiti 80";;;;;1:41;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"20 minutes";"20 minutes";"Tahiti 80";;;;;0:23;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Birds End";"Les plaintes de l'ennui / Dormir plutôt que vivre";"The Birds End";;;;;8:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Trouble Magnet";"Crystal Clear";"The Elektrocution";;;;;2:07;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Trouble Magnet";"Sweet Caroline";"The Elektrocution";;;;;2:30;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Trouble Magnet";"Everything I Touch I Break";"The Elektrocution";;;;;2:29;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Trouble Magnet";"Babylon By Bus";"The Elektrocution";;;;;4:52;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Rise to the sun";"I don't need no doctor";"The Elektrocution";;;;;3:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Trouble Magnet";Goddamn;"The Elektrocution";;;;;2:25;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The flyin' Cadillacs";Garageland;"The flyin' Cadillacs";;;;;2:46;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Garage'n'roll Forever";"Come on";"The flyin' Cadillacs";;;;;3:11;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The flyin' Cadillacs";"My love";"The flyin' Cadillacs";;;;;3:00;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Garage'n'roll Forever";"Do the lapdance";"The flyin' Cadillacs";;;;;2:37;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The flyin' Cadillacs";"Stupid Girl";"The flyin' Cadillacs";;;;;2:43;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Garage'n'roll Forever";"Feel alright";"The flyin' Cadillacs";;;;;3:51;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The flyin' Cadillacs";Why;"The flyin' Cadillacs";;;;;2:36;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Garage'n'roll Forever";"Get out my wife";"The flyin' Cadillacs";;;;;1:40;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The flyin' Cadillacs";Straight;"The flyin' Cadillacs";;;;;3:00;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The flyin' Cadillacs";"Special man";"The flyin' Cadillacs";;;;;2:22;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Garage'n'roll Forever";"Number 6";"The flyin' Cadillacs";;;;;4:04;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The flyin' Cadillacs";"Plan 9";"The flyin' Cadillacs";;;;;1:56;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Garage'n'roll Forever";"Human being";"The flyin' Cadillacs";;;;;2:30;01/03/2014;30/03/2014;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The flyin' Cadillacs";"Pay now";"The flyin' Cadillacs";;;;;1:54;01/03/2014;30/03/2014;FR;16;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Footnotes";"I shot my woman";"The Footnotes";;;;;3:33;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The prophecy";Intro;"The nation\'s breakdown";;;;;1:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"From the first";"Don't be afraid";"The nation\'s breakdown";;;;;2:38;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The prophecy";"Sound of destruction";"The nation\'s breakdown";;;;;3:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"From the first";"Worthwile end";"The nation\'s breakdown";;;;;3:59;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The prophecy";"The prophecy";"The nation\'s breakdown";;;;;4:57;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"From the first";"This is a drug";"The nation\'s breakdown";;;;;2:44;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The prophecy";Illusion;"The nation\'s breakdown";;;;;4:21;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The prophecy";"Bad game";"The nation\'s breakdown";;;;;4:50;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Primitive pulse";"The last great taboo";"The No";;;;;3:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Forty Five";Yesterday;"The Normandy All Stars";;;;;3:09;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Forty Five";"J'ai envie";"The Normandy All Stars";;;;;4:23;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Forty Five";"Peace of mind";"The Normandy All Stars";;;;;4:39;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Forty Five";"Baby Blue & Mister Moonlight";"The Normandy All Stars";;;;;7:32;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Brain squeezer";"Anthem to bullshit";"The Sheep Shaggers";;;;;1:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Brain squeezer";"Pub rock";"The Sheep Shaggers";;;;;2:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Brain squeezer";"What is yours is mine";"The Sheep Shaggers";;;;;3:01;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Room";"Just yourself";Tim;;;;;3:16;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Room";"La voie est libre";Tim;;;;;3:31;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Room";Usine;Tim;;;;;3:46;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"The Room";"Je me souviens";Tim;;;;;2:36;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Le Taxidermiste Est Un Home Seul";"Tony Truant";;;;;2:30;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ovomaltine, Benzedrine et vengeance";"Une dose de cheval";"Tony Truant";;;;;2:57;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Tout Tout De Suite";"Tony Truant";;;;;3:07;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ovomaltine, Benzedrine et vengeance";"Le pivert";"Tony Truant";;;;;4:38;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Fais Pas Chier Quand Je Travaille";"Tony Truant";;;;;3:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Ovomaltine, Benzedrine et vengeance";"Pas gentille";"Tony Truant";;;;;2:30;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Je Ne Jouerais Pas A Eurodisney";"Tony Truant";;;;;1:42;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Basset Artesien";"Tony Truant";;;;;2:35;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";G2loq;"Tony Truant";;;;;4:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Je Te Hais Pour Tout Ce Que Tu M'as Fait Mais C'est Pour Le Reste Que Je Te Deteste";"Tony Truant";;;;;3:20;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Avant Que Ca Recommence";"Tony Truant";;;;;2:01;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Enchante Monde Cruel";"Tony Truant";;;;;2:30;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";Ana;"Tony Truant";;;;;3:05;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Doux Baisers";"Tony Truant";;;;;3:52;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"On The Rocks";"Ma Fiancee S'est Fait La Malle";"Tony Truant";;;;;2:55;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;Ahvive;"Trio Gani";;;;;4:57;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;"Suite montagne";"Trio Gani";;;;;4:32;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;Assipem;"Trio Gani";;;;;3:40;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;"Suite plinn";"Trio Gani";;;;;5:04;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;"La violette";"Trio Gani";;;;;3:58;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;Yemma;"Trio Gani";;;;;4:06;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;Jigs;"Trio Gani";;;;;3:57;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;Cherifa;"Trio Gani";;;;;5:13;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;"Dix Marins";"Trio Gani";;;;;5:44;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;"Ton Doub";"Trio Gani";;;;;3:02;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;"L'epi de ble";"Trio Gani";;;;;4:22;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;Djuedjura;"Trio Gani";;;;;4:18;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Assipem;"La ridee";"Trio Gani";;;;;5:57;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les fonds de bouteilles";"Vie Des Laids";"Un notre parfum";;;;;2:34;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les fonds de bouteilles";"Give Me Five";"Un notre parfum";;;;;2:58;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les fonds de bouteilles";"Du Barbelé Dans Les Veines";"Un notre parfum";;;;;6:41;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les fonds de bouteilles";"Ma Grisaille";"Un notre parfum";;;;;3:57;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les fonds de bouteilles";"Maladie Honteuse";"Un notre parfum";;;;;3:16;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les fonds de bouteilles";"Cuirs, Moustaches, Et Rouflaquettes";"Un notre parfum";;;;;3:16;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les fonds de bouteilles";"Salauds de Pauvres";"Un notre parfum";;;;;3:45;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Les fonds de bouteilles";"Le Dernier Verre";"Un notre parfum";;;;;6:20;01/03/2014;30/03/2014;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"La fille au piano";"La fille au piano";"Véronique St-Germain";;;;;3:29;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"La fille au piano";"Etrange histoire d'amour";"Véronique St-Germain";;;;;3:35;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"La fille au piano";"Fait pour l'amour";"Véronique St-Germain";;;;;4:49;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;Tomorrow;Victoria;;;;;4:37;01/03/2014;30/03/2014;FR;9;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Club;"Getting less";Victoria;;;;;4:50;01/03/2014;30/03/2014;FR;7;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;"I'm still there";Victoria;;;;;4:43;01/03/2014;30/03/2014;FR;14;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Club;"English garden";Victoria;;;;;4:18;01/03/2014;30/03/2014;FR;10;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;"I've been around";Victoria;;;;;3:32;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Club;"She was";Victoria;;;;;4:09;01/03/2014;30/03/2014;FR;9;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;Rain;Victoria;;;;;3:44;01/03/2014;30/03/2014;FR;23;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Club;"Sunflower seeds (part 1)";Victoria;;;;;2:51;01/03/2014;30/03/2014;FR;6;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;"Revolucao 1974";Victoria;;;;;3:27;01/03/2014;30/03/2014;FR;5;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;"Lady Lola";Victoria;;;;;4:06;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;"Telephone song";Victoria;;;;;2:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;Secrets;Victoria;;;;;3:00;01/03/2014;30/03/2014;FR;3;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;"Drive me insane";Victoria;;;;;4:00;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;"Don't leave us alone";Victoria;;;;;3:24;01/03/2014;30/03/2014;FR;9;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;Rain;Demain;Victoria;;;;;4:40;01/03/2014;30/03/2014;FR;4;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"In the Mood for Life";"Masquerade Theme (Skit)";"Wax Tailor";;;;;1:01;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Stay Calm";"Lotus Eater";Willo;;;;;4:15;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Stay Calm";"Hanging on the line";Willo;;;;;6:56;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Xav Feugray";"Monde sensible";"Xav Feugray";;;;;4:10;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Xav Feugray";Navre;"Xav Feugray";;;;;3:03;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Xav Feugray";"Il ne m'est rien arrivé";"Xav Feugray";;;;;3:31;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Zikatatane Live";Intro;Zikatatane;;;;;2:48;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Des Watts";"Y'a de la poésie dans l'air";Zikatatane;;;;;3:48;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Zikatatane Live";Paranoia;Zikatatane;;;;;4:13;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Des Watts";"Made in Normandy";Zikatatane;;;;;3:24;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Arrêtez ce monde!";"Drapeau blanc";Zikatatane;;;;;2:55;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Zikatatane Live";Zikaland;Zikatatane;;;;;5:30;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Des Watts";"Des watts";Zikatatane;;;;;3:18;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Arrêtez ce monde!";Tartempion;Zikatatane;;;;;4:41;01/03/2014;30/03/2014;FR;1;;FREE;INTERNET;ON_DEM_STRE;0;EURO
+TESTONLINE;"	TOL";;;;;MUSI;SINGLE;"Zikatatane Live";Mooving;Zikatatane;;;;;3:33;01/03/2014;30/03/2014;FR;2;;FREE;INTERNET;ON_DEM_STRE;0;EURO
